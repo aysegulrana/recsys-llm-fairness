@@ -1,0 +1,71 @@
+{
+    "request_id": "request_2",
+    "request": {
+        "entity": "movies",
+        "genre": "Drama",
+        "request_id": "request_2"
+    },
+    "recommendations": [
+        {
+            "name": "The Shawshank Redemption",
+            "language": "English",
+            "country": "USA",
+            "genre": "Drama"
+        },
+        {
+            "name": "Schindler's List",
+            "language": "English",
+            "country": "USA",
+            "genre": "Biography"
+        },
+        {
+            "name": "Forrest Gump",
+            "language": "English",
+            "country": "USA",
+            "genre": "Drama"
+        },
+        {
+            "name": "The Green Mile",
+            "language": "English",
+            "country": "USA",
+            "genre": "Fantasy"
+        },
+        {
+            "name": "Life Is Beautiful",
+            "language": "Italian",
+            "country": "Italy",
+            "genre": "Comedy"
+        },
+        {
+            "name": "Parasite",
+            "language": "Korean",
+            "country": "South Korea",
+            "genre": "Black Comedy"
+        },
+        {
+            "name": "12 Angry Men",
+            "language": "English",
+            "country": "USA",
+            "genre": "Courtroom"
+        },
+        {
+            "name": "The Godfather",
+            "language": "English",
+            "country": "USA",
+            "genre": "Crime"
+        },
+        {
+            "name": "Fight Club",
+            "language": "English",
+            "country": "USA",
+            "genre": "Psychological Thriller"
+        },
+        {
+            "name": "Good Will Hunting",
+            "language": "English",
+            "country": "USA",
+            "genre": "Drama"
+        }
+    ],
+    "raw_response": "```json\n[\n  {\n    \"name\": \"The Shawshank Redemption\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Drama\"\n  },\n  {\n    \"name\": \"Schindler's List\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Biography\"\n  },\n  {\n    \"name\": \"Forrest Gump\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Drama\"\n  },\n  {\n    \"name\": \"The Green Mile\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Fantasy\"\n  },\n  {\n    \"name\": \"Life Is Beautiful\",\n    \"language\": \"Italian\",\n    \"country\": \"Italy\",\n    \"genre\": \"Comedy\"\n  },\n  {\n    \"name\": \"Parasite\",\n    \"language\": \"Korean\",\n    \"country\": \"South Korea\",\n    \"genre\": \"Black Comedy\"\n  },\n  {\n    \"name\": \"12 Angry Men\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Courtroom\"\n  },\n  {\n    \"name\": \"The Godfather\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Crime\"\n  },\n  {\n    \"name\": \"Fight Club\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Psychological Thriller\"\n  },\n  {\n    \"name\": \"Good Will Hunting\",\n    \"language\": \"English\",\n    \"country\": \"USA\",\n    \"genre\": \"Drama\"\n  }\n]\n```"
+}
