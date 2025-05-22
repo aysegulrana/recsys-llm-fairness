@@ -1,0 +1,551 @@
+name,language,country,genre
+Chiamami col tuo nome,Italiano,Italia,Romance
+Orgoglio e pregiudizio,Inglese,Regno Unito,Romance
+Le pagine della nostra vita,Inglese,Stati Uniti,Romance
+Il favoloso mondo di Amélie,Francese,Francia,Romance
+Prima dell'alba,Inglese,Stati Uniti,Romance
+Amore e altri rimedi,Inglese,Stati Uniti,Romance
+500 giorni insieme,Inglese,Stati Uniti,Romance
+Shakespeare in Love,Inglese,Regno Unito,Romance
+"Crazy, Stupid, Love",Inglese,Stati Uniti,Romance
+Her - Lei,Inglese,Stati Uniti,Romance
+Le ali della libertà,Inglese,USA,Drammatico
+Forrest Gump,Inglese,USA,Drammatico
+Schindler's List,Inglese,USA,"Drammatico, Storico"
+La vita è bella,Italiano,Italia,"Drammatico, Commedia"
+Il miglio verde,Inglese,USA,"Drammatico, Fantasy"
+Qualcuno volò sul nido del cuculo,Inglese,USA,Drammatico
+Fight Club,Inglese,USA,"Drammatico, Thriller"
+Parasite,Coreano,Corea del Sud,"Drammatico, Thriller, Commedia Nera"
+Il silenzio degli innocenti,Inglese,USA,"Drammatico, Thriller, Horror"
+A Beautiful Mind,Inglese,USA,"Drammatico, Biografico"
+Il Padrino,"Italiano, Inglese",USA,"Crime, Drama"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",USA,"Biography, Drama, History"
+La vita è bella,"Italiano, Tedesco",Italy,"Comedy, Drama, War"
+Parasite,Korean,South Korea,"Comedy, Drama, Thriller"
+2001: Odissea nello spazio,Inglese,"USA, UK","Sci-Fi, Adventure, Mystery"
+"Il buono, il brutto, il cattivo",Italiano,"Italy, Spain, West Germany",Western
+Forrest Gump,Inglese,USA,"Drama, Romance"
+Il silenzio degli innocenti,Inglese,USA,"Crime, Drama, Thriller"
+Seven Samurai,Giapponese,Japan,"Action, Drama"
+Inception,"Inglese, Giapponese, Francese","USA, UK","Action, Sci-Fi, Thriller"
+Chiamami col tuo nome,Italiano,Italia,Romance
+Orgoglio e pregiudizio,Inglese,Regno Unito,Romance
+Casablanca,Inglese,Stati Uniti,Romance
+Il favoloso mondo di Amélie,Francese,Francia,Romance
+Le pagine della nostra vita,Inglese,Stati Uniti,Romance
+Prima dell'alba,Inglese,Stati Uniti,Romance
+Her,Inglese,Stati Uniti,Romance
+Shakespeare in Love,Inglese,Regno Unito,Romance
+500 giorni insieme,Inglese,Stati Uniti,Romance
+La La Land,Inglese,Stati Uniti,Romance
+Le ali della libertà,Inglese,USA,Drammatico
+Forrest Gump,Inglese,USA,Drammatico
+Schindler's List,Inglese,USA,Drammatico
+La vita è bella,Italiano,Italia,Drammatico
+Il miglio verde,Inglese,USA,Drammatico
+Il Gladiatore,Inglese,USA,Drammatico
+A Beautiful Mind,Inglese,USA,Drammatico
+Qualcuno volò sul nido del cuculo,Inglese,USA,Drammatico
+Rain Man - L'uomo della pioggia,Inglese,USA,Drammatico
+American History X,Inglese,USA,Drammatico
+Chiamami col tuo nome,Italiano,Italia,Romance
+Orgoglio e pregiudizio,Inglese,Regno Unito,Romance
+Casablanca,Inglese,Stati Uniti,Romance
+Her,Inglese,Stati Uniti,Romance
+Il favoloso mondo di Amélie,Francese,Francia,Romance
+Titanic,Inglese,Stati Uniti,Romance
+500 giorni insieme,Inglese,Stati Uniti,Romance
+Le pagine della nostra vita,Inglese,Stati Uniti,Romance
+Shakespeare in Love,Inglese,Regno Unito,Romance
+La La Land,Inglese,Stati Uniti,Romance
+Citizenfour,English,USA,"Documentary, Biography, Thriller"
+Icarus,English,USA,"Documentary, Sport, Thriller"
+Amy,English,UK,"Documentary, Biography, Music"
+Free Solo,English,USA,"Documentary, Adventure, Sport"
+Man with a Movie Camera,Russian,USSR,Documentary
+The Act of Killing,Indonesian,"Denmark, Norway, UK","Documentary, Crime, History"
+Searching for Sugar Man,English,"Sweden, UK","Documentary, Music"
+Jiro Dreams of Sushi,Japanese,USA,"Documentary, Biography, Food"
+The Cove,"English, Japanese",USA,"Documentary, Adventure, Thriller"
+Exit Through the Gift Shop,"English, French","UK, USA","Documentary, Comedy, Crime"
+Hereditary,English,USA,"Horror, Mystery, Thriller"
+The Babadook,English,Australia,"Horror, Drama, Mystery"
+It Follows,English,USA,"Horror, Mystery"
+The Witch,English,"USA, Canada, UK, Brazil","Horror, Mystery"
+A Quiet Place,English,USA,"Horror, Sci-Fi, Thriller"
+Get Out,English,USA,"Horror, Mystery, Thriller"
+The Conjuring,English,USA,"Horror, Mystery, Thriller"
+Train to Busan,Korean,South Korea,"Action, Horror, Thriller"
+REC,Spanish,Spain,"Horror, Mystery, Thriller"
+The Descent,English,UK,"Adventure, Horror, Thriller"
+Il Signore degli Anelli: La Compagnia dell'Anello,Inglese,"Nuova Zelanda, USA","Fantasy, Avventura"
+La Storia Infinita,Inglese,"Germania Ovest, USA","Fantasy, Famiglia"
+Il Labirinto del Fauno,Spagnolo,"Spagna, Messico","Fantasy, Drammatico"
+La Principessa Sposa,Inglese,USA,"Fantasy, Avventura, Commedia"
+Willow,Inglese,USA,"Fantasy, Avventura"
+Legend,Inglese,"USA, Regno Unito","Fantasy, Avventura"
+Big Fish - Le Storie di una Vita Incredibile,Inglese,USA,"Fantasy, Drammatico, Commedia"
+Stardust,Inglese,"USA, Regno Unito","Fantasy, Avventura, Romantico"
+Dragonheart,Inglese,USA,"Fantasy, Avventura"
+Edward mani di forbice,Inglese,USA,"Fantasy, Romantico"
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Die Hard,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Mission: Impossible - Fallout,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Kill Bill: Vol. 1,English,USA,Action
+Edge of Tomorrow,English,USA,Action
+Il silenzio degli innocenti,Italian,USA,"Thriller, Crime, Mystery"
+Seven,Italian,USA,"Crime, Mystery, Thriller"
+Knives Out - Cena con delitto,Italian,USA,"Comedy, Crime, Drama, Mystery, Thriller"
+Memento,Italian,USA,"Mystery, Thriller"
+L.A. Confidential,Italian,USA,"Crime, Drama, Mystery, Thriller"
+Primal Fear,Italian,USA,"Crime, Drama, Mystery, Thriller"
+Mystic River,Italian,USA,"Crime, Drama, Mystery, Thriller"
+Gone Girl - L'amore bugiardo,Italian,USA,"Drama, Mystery, Thriller"
+Prisoners,Italian,USA,"Crime, Drama, Mystery, Thriller"
+The Others,Italian,"Spain, USA, France","Horror, Mystery, Thriller"
+Hereditary,English,USA,Horror
+The Babadook,English,Australia,Horror
+It Follows,English,USA,Horror
+The Witch,English,USA,Horror
+REC,Spanish,Spain,Horror
+The Shining,English,USA,Horror
+The Exorcist,English,USA,Horror
+A Quiet Place,English,USA,Horror
+Train to Busan,Korean,South Korea,Horror
+The Silence of the Lambs,English,USA,"Thriller, Horror"
+Blade Runner,English,USA,Sci-Fi
+2001: A Space Odyssey,English,USA,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi Horror
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+Children of Men,English,UK,Sci-Fi
+Stalker,Russian,Soviet Union,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+A qualcuno piace caldo,Italiano,USA,Commedia
+Frankenstein Junior,Italiano,USA,Commedia
+Monty Python e il Sacro Graal,Italiano,Regno Unito,Commedia
+Il grande Lebowski,Italiano,USA,Commedia
+Un pesce di nome Wanda,Italiano,Regno Unito,Commedia
+Ricomincio da capo,Italiano,USA,Commedia
+Una notte da leoni,Italiano,USA,Commedia
+L'aereo più pazzo del mondo,Italiano,USA,Commedia
+Borat - Studio culturale sull'America a beneficio della gloriosa nazione del Kazakistan,Italiano,USA,Commedia
+Quasi amici,Italiano,Francia,Commedia
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Die Hard,English,USA,Action
+Edge of Tomorrow,English,USA,Action
+Kill Bill: Vol. 1,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Mission: Impossible - Fallout,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Il Signore degli Anelli: La Compagnia dell'Anello,Inglese,Nuova Zelanda,Fantasy
+La Storia Infinita,Inglese,Germania Ovest,Fantasy
+Willow,Inglese,USA,Fantasy
+Legend,Inglese,USA,Fantasy
+Dark Crystal,Inglese,Regno Unito,Fantasy
+Princess Bride,Inglese,USA,Fantasy
+Stardust,Inglese,USA,Fantasy
+Il Labirinto del Fauno,Spagnolo,Spagna,Fantasy
+Big Fish - Una storia di incredibile,Inglese,USA,Fantasy
+Dragonheart,Inglese,USA,Fantasy
+Il silenzio degli innocenti,Italian,USA,Thriller
+Seven,Italian,USA,Thriller
+Psycho,Italian,USA,Thriller
+The Departed - Il bene e il male,Italian,USA,Thriller
+Prisoners,Italian,USA,Thriller
+Memories of Murder,Italian,Corea del Sud,Thriller
+Oldboy,Italian,Corea del Sud,Thriller
+Il sospetto,Italian,Danimarca,Thriller
+La finestra sul cortile,Italian,USA,Thriller
+Parasite,Italian,Corea del Sud,Thriller
+Il silenzio degli innocenti,Italian,USA,"Thriller, Mystery"
+Knives Out - Cena con delitto,Italian,USA,"Comedy, Crime, Mystery"
+Seven,Italian,USA,"Crime, Mystery, Thriller"
+Primal Fear,Italian,USA,"Crime, Drama, Mystery"
+Gone Girl - L'amore bugiardo,Italian,USA,"Drama, Mystery, Thriller"
+The Prestige,Italian,"USA, UK","Drama, Mystery, Sci-Fi"
+Mystic River,Italian,"USA, Australia","Crime, Drama, Mystery"
+L.A. Confidential,Italian,USA,"Crime, Drama, Mystery"
+Prisoners,Italian,USA,"Crime, Drama, Mystery"
+Shutter Island,Italian,USA,"Mystery, Thriller"
+Citizenfour,English,USA,"Documentary, Biography, Thriller"
+Amy,English,UK,"Documentary, Biography, Music"
+Icarus,"English, Russian",USA,"Documentary, Sport, Thriller"
+Free Solo,English,USA,"Documentary, Adventure, Sport"
+Man with a Movie Camera,None,USSR,Documentary
+The Act of Killing,"Indonesian, English","Denmark, Norway, UK","Documentary, Crime, History"
+Searching for Sugar Man,"English, Afrikaans","Sweden, UK","Documentary, Music"
+Jiro Dreams of Sushi,Japanese,USA,"Documentary, Biography"
+Exit Through the Gift Shop,"English, French","UK, USA","Documentary, Art, Biography"
+My Octopus Teacher,English,South Africa,"Documentary, Nature"
+Chiamami col tuo nome,Italiano,Italia,Romance
+Il favoloso mondo di Amélie,Francese,Francia,Romance
+Eternal Sunshine of the Spotless Mind,Inglese,USA,Romance
+Lost in Translation,Inglese,USA,Romance
+Pride & Prejudice,Inglese,UK,Romance
+Before Sunrise,Inglese,USA,Romance
+Her,Inglese,USA,Romance
+Carol,Inglese,UK,Romance
+In the Mood for Love,Cantonese,Hong Kong,Romance
+Like Crazy,Inglese,USA,Romance
+Hereditary,English,USA,Horror
+The Babadook,English,Australia,Horror
+It Follows,English,USA,Horror
+The Witch,English,USA,Horror
+Train to Busan,Korean,South Korea,Action Horror
+A Quiet Place,English,USA,Horror
+The Shining,English,USA,Horror
+The Exorcist,English,USA,Horror
+Psycho,English,USA,Thriller/Horror
+Get Out,English,USA,Horror
+Citizenfour,English,USA,"Documentary, Biography, Crime"
+Man with a Movie Camera,Silent,Soviet Union,Documentary
+Amy,English,UK,"Documentary, Biography, Music"
+The Act of Killing,Indonesian,"Denmark, Norway, UK","Documentary, History, War"
+Icarus,"English, Russian",USA,"Documentary, Sport, Thriller"
+Free Solo,English,USA,"Documentary, Adventure, Sport"
+Jiro Dreams of Sushi,Japanese,USA,"Documentary, Biography"
+Paris Is Burning,English,USA,"Documentary, Social"
+Searching for Sugar Man,"English, Swedish","Sweden, UK","Documentary, Music"
+Honeyland,Macedonian,North Macedonia,Documentary
+A qualcuno piace caldo,Italian,USA,Commedia
+Monty Python e il Sacro Graal,Italian,UK,Commedia
+Una notte da leoni,Italian,USA,Commedia
+Frankenstein Junior,Italian,USA,Commedia
+Il grande Lebowski,Italian,USA,Commedia
+Ricomincio da capo,Italian,USA,Commedia
+Quasi amici,Italian,France,Commedia
+The Truman Show,Italian,USA,Commedia
+La vita è bella,Italian,Italy,Commedia
+Non ci resta che piangere,Italian,Italy,Commedia
+Chiamami col tuo nome,Italiano,Italia,Romance
+Orgoglio e pregiudizio,Inglese,Regno Unito,Romance
+Casablanca,Inglese,Stati Uniti,Romance
+Le pagine della nostra vita,Inglese,Stati Uniti,Romance
+Amore e altri rimedi,Inglese,Stati Uniti,Romance
+Il favoloso mondo di Amélie,Francese,Francia,Romance
+500 giorni insieme,Inglese,Stati Uniti,Romance
+Ghost - Fantasma,Inglese,Stati Uniti,Romance
+Shakespeare in Love,Inglese,Regno Unito,Romance
+Titanic,Inglese,Stati Uniti,Romance
+Il Padrino,"Italiano, Inglese",USA,"Crime, Drama"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",USA,"Biography, Drama, History"
+Parasite,Coreano,Corea del Sud,"Comedy, Drama, Thriller"
+La vita è bella,"Italiano, Tedesco, Inglese",Italia,"Comedy, Drama, War"
+Seven Samurai,Giapponese,Giappone,"Action, Drama"
+12 Angry Men,Inglese,USA,Drama
+C'era una volta il West,"Italiano, Inglese","Italia, USA",Western
+The Dark Knight,Inglese,"USA, UK","Action, Crime, Drama"
+Forrest Gump,Inglese,USA,"Drama, Romance"
+Interstellar,Inglese,"USA, UK","Adventure, Drama, Sci-Fi"
+Il Padrino,"Italiano, Inglese",USA,"Crime, Drama"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",USA,"Biography, Drama, History"
+Parasite,Coreano,South Korea,"Comedy, Drama, Thriller"
+La vita è bella,"Italiano, Tedesco, Inglese",Italy,"Comedy, Drama, War"
+Seven Samurai,Giapponese,Japan,"Action, Drama"
+Pulp Fiction,Inglese,USA,"Crime, Drama"
+Forrest Gump,Inglese,USA,"Drama, Romance"
+The Dark Knight,Inglese,"USA, UK","Action, Crime, Drama"
+Inception,"Inglese, Giapponese, Francese","USA, UK","Action, Sci-Fi, Thriller"
+Interstellar,Inglese,"USA, UK","Adventure, Drama, Sci-Fi"
+Blade Runner,English,USA,Sci-Fi
+2001: Odissea nello spazio,English,USA,Sci-Fi
+Star Wars: Episodio IV - Una nuova speranza,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi
+Matrix,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Stalker,Russian,Soviet Union,Sci-Fi
+Metropolis,German,Germany,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+A qualcuno piace caldo,Italian,USA,Commedia
+Anchorman - La leggenda di Ron Burgundy,Italian,USA,Commedia
+Ricomincio da capo,Italian,USA,"Commedia, Fantasy"
+Monty Python e il Sacro Graal,Italian,UK,"Commedia, Fantasy"
+Una notte da leoni,Italian,USA,Commedia
+Il grande Lebowski,Italian,USA,"Commedia, Poliziesco"
+L'aereo più pazzo del mondo,Italian,USA,"Commedia, Parodia"
+Frankenstein Junior,Italian,USA,"Commedia, Horror"
+Borat - Studio culturale sull'America a beneficio della gloriosa nazione del Kazakistan,Italian,USA,Commedia
+Mrs. Doubtfire - Mammo per sempre,Italian,USA,"Commedia, Family"
+Seven,English,USA,Thriller
+The Silence of the Lambs,English,USA,Thriller
+Prisoners,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Oldboy,Korean,South Korea,Thriller
+Zodiac,English,USA,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+Rear Window,English,USA,Thriller
+The Departed,English,USA,Thriller
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Die Hard,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Kill Bill: Vol. 1,English,USA,Action
+Heat,English,USA,Action
+Il silenzio degli innocenti,Italian,USA,Thriller psicologico
+Seven,Italian,USA,"Poliziesco, thriller"
+L.A. Confidential,Italian,USA,"Noir, poliziesco"
+Memento,Italian,USA,"Thriller, mystery"
+Knives Out - Cena con delitto,Italian,USA,"Commedia nera, mystery"
+Prisoners,Italian,USA,"Thriller, drammatico"
+Gone Girl - L'amore bugiardo,Italian,USA,"Thriller psicologico, mystery"
+Il sospetto,Italian,Danimarca,"Drammatico, thriller"
+Mystic River,Italian,USA,"Drammatico, thriller"
+La donna che visse due volte,Italian,USA,"Thriller psicologico, noir"
+Free Solo,English,USA,"Documentary, Sport"
+Icarus,English,USA,"Documentary, Thriller, Sport"
+Amy,English,UK,"Documentary, Biography, Music"
+The Act of Killing,Indonesian,"Denmark, Norway, UK","Documentary, Crime, History"
+Man with a Movie Camera,Silent,Soviet Union,Documentary
+Citizenfour,English,"Germany, USA, UK","Documentary, Biography, Thriller"
+Jiro Dreams of Sushi,Japanese,USA,"Documentary, Biography"
+My Octopus Teacher,English,South Africa,"Documentary, Nature"
+Blackfish,English,USA,"Documentary, Crime, Drama"
+Exit Through the Gift Shop,"English, French","UK, USA","Documentary, Comedy, Crime"
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Die Hard,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Mission: Impossible - Fallout,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Kill Bill: Vol. 1,English,USA,Action
+Heat,English,USA,Action
+Blade Runner,English,USA,Sci-Fi
+2001: Odissea nello spazio,English,UK,Sci-Fi
+Star Wars: Episodio IV - Una nuova speranza,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Il quinto elemento,English,France,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Looper,English,USA,Sci-Fi
+Mad Max: Fury Road,English,Australia,Sci-Fi
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+Terminator 2: Judgment Day,English,USA,Action
+John Wick,English,USA,Action
+Die Hard,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Kill Bill: Vol. 1,English,USA,Action
+Edge of Tomorrow,English,USA,Action
+Raiders of the Lost Ark,English,USA,Action
+Il Padrino,"Italiano, Inglese",USA,"Crimine, Drammatico"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",USA,"Biografico, Drammatico, Storico"
+Parasite,Coreano,Corea del Sud,"Thriller, Drammatico, Commedia nera"
+La Vita è Bella,"Italiano, Tedesco",Italia,"Commedia, Drammatico, Guerra"
+12 Angry Men,Inglese,USA,Drammatico
+The Dark Knight,Inglese,USA,"Azione, Crimine, Supereroi"
+Forrest Gump,Inglese,USA,"Drammatico, Romantico"
+Spirited Away,Giapponese,Giappone,"Animazione, Avventura, Fantastico"
+Interstellar,Inglese,"USA, Regno Unito","Fantascienza, Avventura, Drammatico"
+The Shawshank Redemption,Inglese,USA,Drammatico
+The Babadook,Inglese,Australia,Horror psicologico
+Hereditary,Inglese,USA,Horror psicologico
+It Follows,Inglese,USA,Horror sovrannaturale
+The Witch,Inglese,USA,Horror storico
+A Girl Walks Home Alone at Night,Persiano,USA,Vampire Noir
+The Descent,Inglese,Regno Unito,Horror avventura
+Under the Shadow,Persiano,Giordania,Horror sovrannaturale
+Train to Busan,Coreano,Corea del Sud,Zombie horror
+REC,Spagnolo,Spagna,Found footage horror
+The Lighthouse,Inglese,USA,Horror psicologico
+Il Signore degli Anelli: La Compagnia dell'Anello,Inglese,Nuova Zelanda,Fantasy
+La Storia Infinita,Inglese,Germania Ovest,Fantasy
+Willow,Inglese,USA,Fantasy
+Legend,Inglese,Regno Unito,Fantasy
+Il Labirinto del Fauno,Spagnolo,Spagna,Fantasy
+Princess Bride,Inglese,USA,Fantasy
+Stardust,Inglese,USA,Fantasy
+Dragonheart,Inglese,USA,Fantasy
+Harry Potter e la Pietra Filosofale,Inglese,Regno Unito,Fantasy
+Le avventure del barone di Munchausen,Inglese,Regno Unito,Fantasy
+Il silenzio degli innocenti,Inglese,USA,Thriller
+Seven,Inglese,USA,Thriller
+Prisoners,Inglese,USA,Thriller
+Oldboy,Coreano,Corea del Sud,Thriller
+Memories of Murder,Coreano,Corea del Sud,Thriller
+Parasite,Coreano,Corea del Sud,Thriller
+La finestra sul cortile,Inglese,USA,Thriller
+Psyco,Inglese,USA,Thriller
+Il sospetto,Danese,Danimarca,Thriller
+Gone Girl - L'amore bugiardo,Inglese,USA,Thriller
+Il Padrino,"Italiano, Inglese",USA,"Crime, Dramma"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",USA,"Biografia, Dramma, Storia"
+Parasite,Coreano,Corea del Sud,"Commedia nera, Thriller"
+La vita è bella,"Italiano, Tedesco",Italia,"Commedia, Dramma, Guerra"
+Forrest Gump,Inglese,USA,"Dramma, Romance"
+Inception,"Inglese, Giapponese, Francese","USA, Regno Unito","Azione, Fantascienza, Thriller"
+Il Signore degli Anelli: La Compagnia dell'Anello,"Inglese, Sindarin","Nuova Zelanda, USA","Avventura, Azione, Fantasy"
+Fight Club,Inglese,"USA, Germania",Dramma
+Interstellar,Inglese,"USA, Regno Unito, Canada","Fantascienza, Dramma, Avventura"
+Psycho,Inglese,USA,"Horror, Mistero, Thriller"
+Le ali della libertà,Inglese,Stati Uniti,Drama
+Forrest Gump,Inglese,Stati Uniti,Drama
+Schindler's List,Inglese,Stati Uniti,Drama
+La vita è bella,Italiano,Italia,Drama
+Il miglio verde,Inglese,Stati Uniti,Drama
+Qualcuno volò sul nido del cuculo,Inglese,Stati Uniti,Drama
+Rain Man - L'uomo della pioggia,Inglese,Stati Uniti,Drama
+Il Gladiatore,Inglese,Stati Uniti,Drama
+A Beautiful Mind,Inglese,Stati Uniti,Drama
+Parasite,Coreano,Corea del Sud,Drama
+Man with a Movie Camera,Silent,USSR,"Experimental, City Symphony"
+Hoop Dreams,English,USA,"Sports, Coming-of-age"
+The Act of Killing,Indonesian,"Denmark, Norway, UK","Political, Historical"
+Grey Gardens,English,USA,"Direct Cinema, Portrait"
+Sans Soleil,French,France,"Essay Film, Travel"
+Amy,English,UK,"Biographical, Music"
+Jiro Dreams of Sushi,Japanese,"USA, Japan","Food, Biographical"
+Citizenfour,English,"USA, Germany, UK","Political, Thriller"
+The Cove,"English, Japanese",USA,"Environmental, Activism"
+Microcosmos,French,"France, Switzerland, Italy, UK","Nature, Wildlife"
+Le ali della libertà,Inglese,Stati Uniti,Drammatico
+Il miglio verde,Inglese,Stati Uniti,"Drammatico, Fantastico"
+Forrest Gump,Inglese,Stati Uniti,"Drammatico, Romantico"
+Schindler's List,"Inglese, Tedesco, Polacco, Ebraico",Stati Uniti,"Drammatico, Storico, Guerra"
+La vita è bella,"Italiano, Tedesco, Inglese",Italia,"Drammatico, Commedia, Guerra"
+Qualcuno volò sul nido del cuculo,Inglese,Stati Uniti,Drammatico
+Rain Man - L'uomo della pioggia,Inglese,Stati Uniti,Drammatico
+Il silenzio degli innocenti,Inglese,Stati Uniti,"Drammatico, Thriller"
+American History X,Inglese,Stati Uniti,"Drammatico, Crime"
+A Beautiful Mind,Inglese,Stati Uniti,"Drammatico, Biografico"
+Blade Runner,English,USA,Sci-Fi
+2001: Odissea nello spazio,English,UK,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Stalker,Russian,USSR,Sci-Fi
+Matrix,English,USA,Sci-Fi
+Mad Max: Fury Road,English,Australia,Sci-Fi
+Il quinto elemento,English,France,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+A qualcuno piace caldo,Italiano,USA,Commedia
+Monty Python e il Sacro Graal,Italiano,UK,Commedia
+Una notte da leoni,Italiano,USA,Commedia
+Ricomincio da capo,Italiano,USA,Commedia
+L'aereo più pazzo del mondo,Italiano,USA,Commedia
+Il grande Lebowski,Italiano,USA,Commedia
+Borat - Studio culturale sull'America a beneficio gloriosa nazione del Kazakistan,Italiano,USA,Commedia
+Frankenstein Junior,Italiano,USA,Commedia
+Toy Story,Italiano,USA,"Commedia, Animazione"
+Quasi amici,Italiano,Francia,"Commedia, Drammatico"
+Seven,Inglese,USA,Thriller
+Il silenzio degli innocenti,Inglese,USA,Thriller
+Memories of Murder,Coreano,Corea del Sud,Thriller
+Oldboy,Coreano,Corea del Sud,Thriller
+Prisoners,Inglese,USA,Thriller
+Il labirinto del fauno,Spagnolo,"Messico, Spagna",Thriller
+Parasite,Coreano,Corea del Sud,Thriller
+The Game - Nessuna regola,Inglese,USA,Thriller
+Viale del tramonto,Inglese,USA,Thriller
+La finestra sul cortile,Inglese,USA,Thriller
+A qualcuno piace caldo,Italian,USA,Commedia
+Monty Python e il Sacro Graal,Italian,UK,Commedia
+Il grande Lebowski,Italian,USA,Commedia
+Una notte da leoni,Italian,USA,Commedia
+Anchorman - La leggenda di Ron Burgundy,Italian,USA,Commedia
+Frankenstein Junior,Italian,USA,Commedia
+Borat - Studio culturale sull'America a beneficio della gloriosa nazione del Kazakistan,Italian,USA,Commedia
+Non ci resta che piangere,Italian,Italy,Commedia
+L'aereo più pazzo del mondo,Italian,USA,Commedia
+Ghostbusters - Acchiappafantasmi,Italian,USA,Commedia
+Le ali della libertà,Inglese,Stati Uniti,Drammatico
+Forrest Gump,Inglese,Stati Uniti,Drammatico
+Schindler's List,Inglese,Stati Uniti,"Drammatico, Storico"
+La vita è bella,Italiano,Italia,"Drammatico, Commedia"
+Il miglio verde,Inglese,Stati Uniti,"Drammatico, Fantastico"
+Qualcuno volò sul nido del cuculo,Inglese,Stati Uniti,Drammatico
+Il Padrino,"Inglese, Italiano",Stati Uniti,"Drammatico, Crime"
+Prova a prendermi,Inglese,Stati Uniti,"Drammatico, Biografico"
+A Beautiful Mind,Inglese,Stati Uniti,"Drammatico, Biografico"
+Manchester by the Sea,Inglese,Stati Uniti,Drammatico
+Il Signore degli Anelli: La Compagnia dell'Anello,Inglese,Nuova Zelanda/USA,Fantasy
+La Storia Infinita,Inglese,Germania Ovest/USA,Fantasy
+Harry Potter e la Pietra Filosofale,Inglese,Regno Unito/USA,Fantasy
+Il Labirinto del Fauno,Spagnolo,Spagna/Messico,Fantasy
+Legend,Inglese,Regno Unito/USA,Fantasy
+Willow,Inglese,USA,Fantasy
+"Le Cronache di Narnia: Il Leone, la Strega e l'Armadio",Inglese,Regno Unito/USA,Fantasy
+Big Fish - Una storia di incredibile,Inglese,USA,Fantasy
+Princess Mononoke,Giapponese,Giappone,Fantasy
+Stardust,Inglese,Regno Unito/USA,Fantasy
+Il silenzio degli innocenti,Italian,USA,Thriller
+Seven,Italian,USA,Thriller
+Prisoners,Italian,USA,Thriller
+Oldboy,Italian,Corea del Sud,Thriller
+Memories of Murder,Italian,Corea del Sud,Thriller
+The Departed - Il bene e il male,Italian,USA,Thriller
+Gone Girl - L'amore bugiardo,Italian,USA,Thriller
+Parasite,Italian,Corea del Sud,Thriller
+La donna che visse due volte,Italian,USA,Thriller
+Psyco,Italian,USA,Thriller
+Il silenzio degli innocenti,Italian,USA,"Thriller, Poliziesco, Mystery"
+Seven,Italian,USA,"Thriller, Poliziesco, Mystery"
+L.A. Confidential,Italian,USA,"Thriller, Poliziesco, Noir, Mystery"
+Memento,Italian,USA,"Thriller, Mystery, Drammatico"
+La donna che visse due volte,Italian,USA,"Thriller, Mystery, Romance"
+Chinatown,Italian,USA,"Poliziesco, Noir, Mystery, Drammatico"
+Knives Out - Cena con delitto,Italian,USA,"Commedia, Mystery, Poliziesco"
+Prisoners,Italian,USA,"Thriller, Poliziesco, Mystery, Drammatico"
+Il sospetto,Italian,Danimarca,"Drammatico, Thriller, Mystery"
+Mystic River,Italian,USA,"Drammatico, Mystery, Thriller"
+Blade Runner,English,USA,Sci-Fi
+2001: A Space Odyssey,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi
+Akira,Japanese,Japan,Sci-Fi
+Stalker,Russian,Soviet Union,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Primal Fear,English,USA,"Legal Thriller, Mystery"
+The Silence of the Lambs,English,USA,"Psychological Thriller, Crime, Mystery"
+Gone Girl,English,USA,"Psychological Thriller, Mystery"
+Knives Out,English,USA,"Mystery, Comedy, Crime"
+The Girl with the Dragon Tattoo,English,USA,"Mystery, Thriller, Crime"
+Se7en,English,USA,"Crime, Mystery, Thriller"
+The Usual Suspects,English,USA,"Crime, Mystery, Thriller"
+Shutter Island,English,USA,"Mystery, Thriller, Psychological Horror"
+Rear Window,English,USA,"Mystery, Thriller"
+Prisoners,English,USA,"Crime, Drama, Mystery"
+Il Signore degli Anelli: La Compagnia dell'Anello,Inglese,"Nuova Zelanda, Stati Uniti",Fantasy
+Il Castello Errante di Howl,Giapponese,Giappone,"Animazione, Fantasy"
+La Storia Infinita,Inglese,"Germania Ovest, Stati Uniti","Fantasy, Avventura"
+Legend,Inglese,"Regno Unito, Stati Uniti","Fantasy, Avventura"
+Willow,Inglese,Stati Uniti,"Fantasy, Avventura"
+La Principessa Mononoke,Giapponese,Giappone,"Animazione, Fantasy"
+Big Fish - Una storia di incredibile,Inglese,Stati Uniti,"Fantasy, Drammatico"
+Dark Crystal,Inglese,"Regno Unito, Stati Uniti","Fantasy, Avventura"
+Pan's Labyrinth,Spagnolo,"Messico, Spagna","Fantasy, Drammatico"
+Stardust,Inglese,"Regno Unito, Stati Uniti","Fantasy, Avventura, Romantico"
+Hereditary,English,USA,"Horror, Mystery, Thriller"
+The Babadook,English,Australia,"Horror, Drama, Mystery"
+It Follows,English,USA,"Horror, Mystery"
+The Witch,English,"USA, Canada","Horror, Mystery"
+A Quiet Place,English,USA,"Horror, Sci-Fi, Thriller"
+Get Out,English,USA,"Horror, Mystery, Thriller"
+REC,Spanish,Spain,"Horror, Thriller, Mystery"
+The Shining,English,"USA, UK","Horror, Drama, Mystery"
+The Exorcist,English,USA,Horror
+Psycho,English,USA,"Horror, Mystery, Thriller"
