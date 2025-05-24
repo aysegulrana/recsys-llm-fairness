@@ -1,0 +1,551 @@
+name,language,country,genre
+Blade Runner,English,USA,Sci-Fi
+2001: A Space Odyssey,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Children of Men,English,USA,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+Alien,English,USA,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+The Shawshank Redemption,English,USA,Drama
+Schindler's List,English,USA,Biography
+Forrest Gump,English,USA,Drama
+The Green Mile,English,USA,Fantasy
+Life Is Beautiful,Italian,Italy,Comedy
+Parasite,Korean,South Korea,Black Comedy
+12 Angry Men,English,USA,Courtroom
+The Godfather,English,USA,Crime
+Fight Club,English,USA,Psychological Thriller
+Good Will Hunting,English,USA,Drama
+The Silence of the Lambs,English,USA,Thriller
+Se7en,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+Prisoners,English,USA,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Rear Window,English,USA,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+Zodiac,English,USA,Thriller
+The Vanishing (Spoorloos),Dutch,Netherlands,Thriller
+Oldboy,Korean,South Korea,Thriller
+The Shawshank Redemption,English,USA,Drama
+Schindler's List,English,USA,Biography
+Forrest Gump,English,USA,Drama
+The Green Mile,English,USA,Fantasy Drama
+12 Angry Men,English,USA,Legal Drama
+Life Is Beautiful,Italian,Italy,Comedy-drama
+Parasite,Korean,South Korea,Black comedy thriller drama
+Fight Club,English,USA,Psychological drama
+Good Will Hunting,English,USA,Drama
+A Separation,Persian,Iran,Drama
+The Shawshank Redemption,English,USA,Drama
+Pulp Fiction,English,USA,Crime
+Spirited Away,Japanese,Japan,Animation
+Parasite,Korean,South Korea,Thriller
+The Dark Knight,English,USA,Action
+Inception,English,USA,Sci-Fi
+Goodfellas,English,USA,Crime
+Amelie,French,France,Romance
+Interstellar,English,USA,Sci-Fi
+Seven Samurai,Japanese,Japan,Action
+Prisoners,English,USA,Thriller
+Se7en,English,USA,Thriller
+The Silence of the Lambs,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Rear Window,English,USA,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+Zodiac,English,USA,Thriller
+The Vanishing (Spoorloos),Dutch,Netherlands,Thriller
+Oldboy,Korean,South Korea,Thriller
+Blade Runner,English,USA,Sci-Fi
+2001: A Space Odyssey,English,UK,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Solaris (1972),Russian,Soviet Union,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back,English,USA,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+Children of Men,English,UK,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+Shaun of the Dead,English,UK,Comedy Horror
+Monty Python and the Holy Grail,English,UK,Comedy
+The Big Lebowski,English,USA,Comedy
+Bridesmaids,English,USA,Comedy
+Superbad,English,USA,Comedy
+This Is Spinal Tap,English,USA,Comedy
+What We Do in the Shadows,English,New Zealand,Comedy Horror
+Airplane!,English,USA,Comedy
+Booksmart,English,USA,Comedy
+Paddington 2,English,UK,Family Comedy
+My Octopus Teacher,English,South Africa,Nature Documentary
+Free Solo,English,USA,Sports Documentary
+Icarus,English,USA,Political Documentary
+Man with a Movie Camera,Russian,Soviet Union,Experimental Documentary
+The Act of Killing,Indonesian,Denmark/Norway/UK,Historical Documentary
+Amy,English,UK,Biographical Documentary
+Citizenfour,English,USA/Germany/UK,Political Documentary
+Paris Is Burning,English,USA,Social Documentary
+The Cove,English,USA,Environmental Documentary
+Exit Through the Gift Shop,English,UK,Art Documentary
+Blade Runner 2049,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Children of Men,English,UK,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+Moon,English,UK,Sci-Fi
+2001: A Space Odyssey,English,USA,Sci-Fi
+Stalker,Russian,USSR,Sci-Fi
+Close Encounters of the Third Kind,English,USA,Sci-Fi
+Man with a Movie Camera,Silent,Soviet Union,Experimental Documentary
+Grey Gardens,English,USA,Direct Cinema
+The Act of Killing,Indonesian,Denmark,Political Documentary
+Paris Is Burning,English,USA,Social Documentary
+Hoop Dreams,English,USA,Sports Documentary
+Amy,English,UK,Biographical Documentary
+Free Solo,English,USA,Adventure Documentary
+Icarus,English,USA,Political Documentary
+Microcosmos,French,France,Nature Documentary
+Honeyland,Macedonian,North Macedonia,Environmental Documentary
+The Shawshank Redemption,English,USA,Drama
+Forrest Gump,English,USA,Drama
+The Godfather,English,USA,Drama
+Schindler's List,English,USA,Drama
+12 Angry Men,English,USA,Drama
+Life is Beautiful,Italian,Italy,Drama
+Parasite,Korean,South Korea,Drama
+Cinema Paradiso,Italian,Italy,Drama
+The Green Mile,English,USA,Drama
+One Flew Over the Cuckoo's Nest,English,USA,Drama
+Pride & Prejudice,English,United Kingdom,Romance
+The Notebook,English,United States,Romance
+Before Sunrise,English,United States,Romance
+When Harry Met Sally...,English,United States,Romance
+Amélie,French,France,Romance
+Call Me by Your Name,English,Italy,Romance
+La La Land,English,United States,Romance
+Crazy Rich Asians,English,United States,Romance
+Portrait of a Lady on Fire,French,France,Romance
+500 Days of Summer,English,United States,Romance
+The Exorcist,English,USA,Supernatural Horror
+Hereditary,English,USA,Psychological Horror
+The Babadook,English,Australia,Psychological Horror
+It Follows,English,USA,Supernatural Horror
+The Shining,English,USA/UK,Psychological Horror
+Psycho,English,USA,Psychological Thriller/Horror
+Train to Busan,Korean,South Korea,Zombie Horror
+The Witch,English,USA/Canada/UK/Brazil,Folk Horror
+A Quiet Place,English,USA,Monster Horror
+REC,Spanish,Spain,Found Footage Horror
+The Exorcist,English,USA,Supernatural Horror
+Hereditary,English,USA,Psychological Horror
+The Babadook,English,Australia,Psychological Horror
+It Follows,English,USA,Supernatural Horror
+The Witch,English,USA,Folk Horror
+Train to Busan,Korean,South Korea,Zombie Horror
+A Quiet Place,English,USA,Monster Horror
+The Ring (Ringu),Japanese,Japan,Supernatural Horror
+Halloween (1978),English,USA,Slasher
+The Silence of the Lambs,English,USA,Psychological Horror
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Die Hard,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Kill Bill: Vol. 1,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Edge of Tomorrow,English,USA,Action
+The Lord of the Rings: The Fellowship of the Ring,English,New Zealand,Fantasy
+Spirited Away,Japanese,Japan,Fantasy
+Pan's Labyrinth,Spanish,Mexico,Fantasy
+Harry Potter and the Prisoner of Azkaban,English,United Kingdom,Fantasy
+Princess Mononoke,Japanese,Japan,Fantasy
+The NeverEnding Story,English,West Germany,Fantasy
+Willow,English,United States,Fantasy
+Stardust,English,United Kingdom,Fantasy
+The Dark Crystal,English,United Kingdom,Fantasy
+Legend,English,United Kingdom,Fantasy
+Shaun of the Dead,English,UK,Comedy Horror
+Monty Python and the Holy Grail,English,UK,Comedy
+Airplane!,English,USA,Comedy
+This Is Spinal Tap,English,USA,Comedy
+The Big Lebowski,English,USA,Comedy
+Superbad,English,USA,Comedy
+Bridesmaids,English,USA,Comedy
+What We Do in the Shadows,English,New Zealand,Comedy Horror
+Paddington 2,English,UK,Family Comedy
+In Bruges,English,UK,Black Comedy
+The Lord of the Rings: The Fellowship of the Ring,English,USA,Fantasy
+Spirited Away,Japanese,Japan,Fantasy
+Pan's Labyrinth,Spanish,Mexico,Fantasy
+Princess Mononoke,Japanese,Japan,Fantasy
+The NeverEnding Story,English,West Germany,Fantasy
+Harry Potter and the Sorcerer's Stone,English,USA,Fantasy
+Legend,English,USA,Fantasy
+Willow,English,USA,Fantasy
+Stardust,English,USA,Fantasy
+The Dark Crystal,English,USA,Fantasy
+Knives Out,English,USA,Mystery
+The Maltese Falcon,English,USA,Mystery
+Rear Window,English,USA,Mystery
+Seven,English,USA,Mystery
+The Girl with the Dragon Tattoo,Swedish,Sweden,Mystery
+Zodiac,English,USA,Mystery
+Prisoners,English,USA,Mystery
+Gone Girl,English,USA,Mystery
+The Silence of the Lambs,English,USA,Mystery
+Parasite,Korean,South Korea,Mystery
+The Shawshank Redemption,English,USA,Drama
+Schindler's List,English,USA,Biography
+Forrest Gump,English,USA,Drama
+The Green Mile,English,USA,Fantasy
+12 Angry Men,English,USA,Drama
+Life Is Beautiful,Italian,Italy,Comedy
+Parasite,Korean,South Korea,Black Comedy
+The Intouchables,French,France,Comedy-drama
+A Separation,Persian,Iran,Drama
+Manchester by the Sea,English,USA,Drama
+Knives Out,English,USA,Mystery
+The Maltese Falcon,English,USA,Mystery
+Rear Window,English,USA,Mystery
+Gone Girl,English,USA,Mystery
+The Girl with the Dragon Tattoo,English,Sweden,Mystery
+Zodiac,English,USA,Mystery
+Seven,English,USA,Mystery
+The Silence of the Lambs,English,USA,Mystery
+Prisoners,English,USA,Mystery
+The Prestige,English,USA,Mystery
+Pride & Prejudice,English,United Kingdom,Romance
+Call Me by Your Name,English,Italy,Romance
+The Notebook,English,United States,Romance
+Amélie,French,France,Romance
+Before Sunrise,English,United States,Romance
+When Harry Met Sally...,English,United States,Romance
+La La Land,English,United States,Romance
+Crazy Rich Asians,English,United States,Romance
+Portrait of a Lady on Fire,French,France,Romance
+500 Days of Summer,English,United States,Romance
+Pride & Prejudice,English,UK,Romance
+The Notebook,English,USA,Romance
+When Harry Met Sally...,English,USA,Romance
+Amélie,French,France,Romance
+La La Land,English,USA,Romance
+Call Me by Your Name,English,Italy,Romance
+Before Sunrise,English,USA,Romance
+Crazy Rich Asians,English,USA,Romance
+Eternal Sunshine of the Spotless Mind,English,USA,Romance
+Roman Holiday,English,USA,Romance
+Superbad,English,USA,Comedy
+The Princess Bride,English,USA,Comedy
+Monty Python and the Holy Grail,English,UK,Comedy
+Airplane!,English,USA,Comedy
+Shaun of the Dead,English,UK,Comedy
+This Is Spinal Tap,English,USA,Comedy
+Booksmart,English,USA,Comedy
+What We Do in the Shadows,English,New Zealand,Comedy
+Office Space,English,USA,Comedy
+Bridesmaids,English,USA,Comedy
+Mad Max: Fury Road,English,Australia,Action
+John Wick,English,USA,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+Die Hard,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Kill Bill: Vol. 1,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+RRR,Telugu,India,Action
+The Exorcist,English,USA,Horror
+Hereditary,English,USA,Horror
+The Babadook,English,Australia,Horror
+It Follows,English,USA,Horror
+The Witch,English,USA,Horror
+A Nightmare on Elm Street,English,USA,Horror
+The Shining,English,USA,Horror
+Train to Busan,Korean,South Korea,Horror
+Psycho,English,USA,Horror
+Silence of the Lambs,English,USA,Horror
+The Silence of the Lambs,English,USA,Thriller
+Seven,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+Rear Window,English,USA,Thriller
+Psycho,English,USA,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Prisoners,English,USA,Thriller
+The Invisible Guest,Spanish,Spain,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+Vertigo,English,USA,Thriller
+Blade Runner 2049,English,USA,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+Children of Men,English,UK,Sci-Fi
+2001: A Space Odyssey,English,USA,Sci-Fi
+Stalker,Russian,USSR,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi
+The Lord of the Rings: The Fellowship of the Ring,English,New Zealand,Fantasy
+Spirited Away,Japanese,Japan,Fantasy
+Pan's Labyrinth,Spanish,Mexico,Fantasy
+Princess Mononoke,Japanese,Japan,Fantasy
+The NeverEnding Story,English,West Germany,Fantasy
+Harry Potter and the Sorcerer's Stone,English,USA,Fantasy
+Stardust,English,USA,Fantasy
+Willow,English,USA,Fantasy
+The Dark Crystal,English,USA,Fantasy
+Conan the Barbarian,English,USA,Fantasy
+My Octopus Teacher,English,South Africa,Nature Documentary
+Free Solo,English,USA,Sports Documentary
+Icarus,English,USA,Political Documentary
+The Social Dilemma,English,USA,Social Issues Documentary
+Blackfish,English,USA,Animal Rights Documentary
+Amy,English,UK,Biographical Documentary
+Man with a Movie Camera,Russian,Soviet Union,Experimental Documentary
+Honeyland,Macedonian,North Macedonia,Environmental Documentary
+Collective,Romanian,Romania,Investigative Documentary
+The Act of Killing,Indonesian,"Denmark, Norway, UK",Historical Documentary
+Pride & Prejudice,English,UK,Romance
+When Harry Met Sally...,English,USA,Romance
+The Notebook,English,USA,Romance
+Before Sunrise,English,USA,Romance
+Amélie,French,France,Romance
+La La Land,English,USA,Romance
+Call Me by Your Name,English,Italy,Romance
+Crazy Rich Asians,English,USA,Romance
+10 Things I Hate About You,English,USA,Romance
+Your Name.,Japanese,Japan,Romance
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Die Hard,English,USA,Action
+Kill Bill: Vol. 1,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Aliens,English,USA,Action
+The Shawshank Redemption,English,USA,Drama
+Pulp Fiction,English,USA,Crime
+Spirited Away,Japanese,Japan,Animation
+Parasite,Korean,South Korea,Black Comedy
+The Dark Knight,English,USA,Action
+Inception,English,USA,Sci-Fi
+Goodfellas,English,USA,Crime
+Amelie,French,France,Romantic Comedy
+The Matrix,English,USA,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Die Hard,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Mission: Impossible - Fallout,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Kill Bill: Vol. 1,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+Raiders of the Lost Ark,English,USA,Action
+Airplane!,English,USA,Comedy
+Monty Python and the Holy Grail,English,UK,Comedy
+Shaun of the Dead,English,UK,Comedy
+This Is Spinal Tap,English,USA,Comedy
+The Princess Bride,English,USA,Comedy
+Superbad,English,USA,Comedy
+Bridesmaids,English,USA,Comedy
+What We Do in the Shadows,English,New Zealand,Comedy
+The Grand Budapest Hotel,English,USA,Comedy
+Booksmart,English,USA,Comedy
+Knives Out,English,USA,Mystery
+The Silence of the Lambs,English,USA,Mystery
+Rear Window,English,USA,Mystery
+The Maltese Falcon,English,USA,Mystery
+Seven,English,USA,Mystery
+Gone Girl,English,USA,Mystery
+Prisoners,English,USA,Mystery
+Memories of Murder,Korean,South Korea,Mystery
+The Girl with the Dragon Tattoo,Swedish,Sweden,Mystery
+The Hound of the Baskervilles,English,UK,Mystery
+Citizenfour,English,USA,Biography
+My Octopus Teacher,English,South Africa,Nature
+Icarus,English,USA,Sports
+Free Solo,English,USA,Sports
+The Act of Killing,Indonesian,Denmark,History
+Amy,English,UK,Biography
+Man with a Movie Camera,No dialogue,USSR,Experimental
+Apollo 11,English,USA,History
+Blackfish,English,USA,Animals
+Exit Through the Gift Shop,English,UK,Art
+The Silence of the Lambs,English,USA,Thriller
+Se7en,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+Rear Window,English,USA,Thriller
+Psycho,English,USA,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Prisoners,English,USA,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+Oldboy,Korean,South Korea,Thriller
+The Invisible Guest,Spanish,Spain,Thriller
+The Lord of the Rings: The Fellowship of the Ring,English,USA,Fantasy
+Spirited Away,Japanese,Japan,Fantasy
+Pan's Labyrinth,Spanish,Mexico,Fantasy
+Princess Mononoke,Japanese,Japan,Fantasy
+The NeverEnding Story,English,West Germany,Fantasy
+Harry Potter and the Sorcerer's Stone,English,USA,Fantasy
+Legend,English,USA,Fantasy
+Willow,English,USA,Fantasy
+Stardust,English,USA,Fantasy
+The Princess Bride,English,USA,Fantasy
+Seven,English,USA,Thriller
+The Silence of the Lambs,English,USA,Thriller
+Parasite,Korean,South Korea,Thriller
+Rear Window,English,USA,Thriller
+Prisoners,English,USA,Thriller
+The Girl with the Dragon Tattoo,Swedish,Sweden,Thriller
+Memories of Murder,Korean,South Korea,Thriller
+The Departed,English,USA,Thriller
+No Country for Old Men,English,USA,Thriller
+Zodiac,English,USA,Thriller
+Mad Max: Fury Road,English,Australia,Action
+The Raid: Redemption,Indonesian,Indonesia,Action
+John Wick,English,USA,Action
+Die Hard,English,USA,Action
+Terminator 2: Judgment Day,English,USA,Action
+Hard Boiled,Cantonese,Hong Kong,Action
+Mission: Impossible - Fallout,English,USA,Action
+Kill Bill: Vol. 1,English,USA,Action
+Aliens,English,USA,Action
+"Crouching Tiger, Hidden Dragon",Mandarin,China,Action
+The Exorcist,English,USA,Supernatural Horror
+Hereditary,English,USA,Psychological Horror
+The Babadook,English,Australia,Psychological Horror
+It Follows,English,USA,Supernatural Horror
+The Witch,English,USA,Folk Horror
+A Quiet Place,English,USA,Monster Horror
+Train to Busan,Korean,South Korea,Zombie Horror
+The Ring (Ringu),Japanese,Japan,Supernatural Horror
+Get Out,English,USA,Social Thriller Horror
+The Shining,English,USA,Psychological Horror
+My Octopus Teacher,English,South Africa,Nature Documentary
+Free Solo,English,USA,Sports Documentary
+Icarus,English,USA,Political Documentary
+Man with a Movie Camera,No Dialogue,Soviet Union,Experimental Documentary
+The Act of Killing,Indonesian,Denmark/Norway/UK,Historical Documentary
+Amy,English,UK,Biographical Documentary
+Jiro Dreams of Sushi,Japanese,USA/Japan,Food Documentary
+Honeyland,Macedonian,North Macedonia,Environmental Documentary
+Citizenfour,English,USA/Germany/UK,Political Documentary
+Apollo 11,English,USA,Historical Documentary
+The Shawshank Redemption,English,USA,Drama
+Spirited Away,Japanese,Japan,Animation
+Parasite,Korean,South Korea,Black Comedy
+Inception,English,USA,Sci-Fi
+The Godfather,English,USA,Crime
+Pulp Fiction,English,USA,Crime
+Amelie,French,France,Romance
+Interstellar,English,USA,Sci-Fi
+Seven Samurai,Japanese,Japan,Action
+City of God,Portuguese,Brazil,Crime
+Monty Python and the Holy Grail,English,UK,Comedy
+Airplane!,English,USA,Comedy
+Shaun of the Dead,English,UK,Comedy
+The Big Lebowski,English,USA,Comedy
+Bridesmaids,English,USA,Comedy
+Superbad,English,USA,Comedy
+This Is Spinal Tap,English,USA,Comedy
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,English,UK,Comedy
+What We Do in the Shadows,English,New Zealand,Comedy
+Paddington 2,English,UK,Comedy
+The Shawshank Redemption,English,USA,Drama
+Spirited Away,Japanese,Japan,Animation
+Parasite,Korean,South Korea,Black Comedy
+Pulp Fiction,English,USA,Crime
+The Godfather,English,USA,Crime
+Interstellar,English,USA,Sci-Fi
+Amélie,French,France,Romantic Comedy
+Seven Samurai,Japanese,Japan,Action
+Inception,English,USA,Sci-Fi
+The Dark Knight,English,USA,Superhero
+Knives Out,English,USA,Mystery
+The Girl with the Dragon Tattoo,English,USA,Mystery
+Prisoners,English,USA,Mystery
+Se7en,English,USA,Mystery
+Rear Window,English,USA,Mystery
+The Silence of the Lambs,English,USA,Mystery
+The Maltese Falcon,English,USA,Mystery
+Memories of Murder,Korean,South Korea,Mystery
+Gone Girl,English,USA,Mystery
+Zodiac,English,USA,Mystery
+The Lord of the Rings: The Fellowship of the Ring,English,New Zealand,Fantasy
+Spirited Away,Japanese,Japan,Fantasy
+Pan's Labyrinth,Spanish,Mexico,Fantasy
+Princess Mononoke,Japanese,Japan,Fantasy
+The NeverEnding Story,English,West Germany,Fantasy
+Harry Potter and the Sorcerer's Stone,English,USA,Fantasy
+Legend,English,USA,Fantasy
+Willow,English,USA,Fantasy
+The Dark Crystal,English,UK,Fantasy
+Stardust,English,USA,Fantasy
+The Exorcist,English,USA,Supernatural Horror
+Hereditary,English,USA,Psychological Horror
+The Babadook,English,Australia,Psychological Horror
+It Follows,English,USA,Supernatural Horror
+The Witch,English,USA,Folk Horror
+Train to Busan,Korean,South Korea,Zombie Horror
+The Ring (Ringu),Japanese,Japan,Supernatural Horror
+A Quiet Place,English,USA,Monster Horror
+Get Out,English,USA,Social Thriller Horror
+REC,Spanish,Spain,Found Footage Horror
+The Shawshank Redemption,English,USA,Drama
+Spirited Away,Japanese,Japan,Animation
+Parasite,Korean,South Korea,Black Comedy Thriller
+The Dark Knight,English,USA,Action
+Pulp Fiction,English,USA,Crime
+Inception,English,USA,Sci-Fi
+Goodfellas,English,USA,Crime
+The Matrix,English,USA,Sci-Fi
+Amelie,French,France,Romantic Comedy
+Interstellar,English,USA,Sci-Fi
+Pride & Prejudice,English,UK,Romance
+The Notebook,English,USA,Romance
+Before Sunrise,English,USA,Romance
+La La Land,English,USA,Romance
+Amélie,French,France,Romance
+Call Me by Your Name,English,Italy,Romance
+When Harry Met Sally...,English,USA,Romance
+Eternal Sunshine of the Spotless Mind,English,USA,Romance
+Crazy Rich Asians,English,USA,Romance
+Your Name.,Japanese,Japan,Romance
+Blade Runner,English,USA,Sci-Fi
+2001: A Space Odyssey,English,UK,Sci-Fi
+Arrival,English,USA,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back,English,USA,Sci-Fi
+Alien,English,USA,Sci-Fi
+The Matrix,English,USA,Sci-Fi
+Gattaca,English,USA,Sci-Fi
+Children of Men,English,UK,Sci-Fi
+Interstellar,English,USA,Sci-Fi
+District 9,English,South Africa,Sci-Fi
+The Shawshank Redemption,English,USA,Drama
+Schindler's List,English,USA,Drama
+Forrest Gump,English,USA,Drama
+The Green Mile,English,USA,Drama
+12 Angry Men,English,USA,Drama
+Life Is Beautiful,Italian,Italy,Drama
+Parasite,Korean,South Korea,Drama
+The Godfather,English,USA,Drama
+One Flew Over the Cuckoo's Nest,English,USA,Drama
+Interstellar,English,USA,Drama
+Knives Out,English,USA,Mystery
+The Maltese Falcon,English,USA,Mystery
+Rear Window,English,USA,Mystery
+Seven,English,USA,Mystery
+The Girl with the Dragon Tattoo,English,USA,Mystery
+The Silence of the Lambs,English,USA,Mystery
+Gone Girl,English,USA,Mystery
+Prisoners,English,USA,Mystery
+Memories of Murder,Korean,South Korea,Mystery
+Zodiac,English,USA,Mystery

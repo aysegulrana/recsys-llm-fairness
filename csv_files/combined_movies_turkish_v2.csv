@@ -1,0 +1,551 @@
+name,language,country,genre
+Yüzüklerin Efendisi: Yüzük Kardeşliği,İngilizce,"ABD, Yeni Zelanda","Fantastik, Macera"
+Harry Potter ve Felsefe Taşı,İngilizce,"İngiltere, ABD","Fantastik, Aile"
+Pan'ın Labirenti,İspanyolca,"İspanya, Meksika","Fantastik, Dram"
+Prenses Gelin,İngilizce,ABD,"Fantastik, Komedi"
+Ejderhanı Nasıl Eğitirsin,İngilizce,ABD,"Animasyon, Fantastik"
+Stardust,İngilizce,"İngiltere, ABD","Fantastik, Romantik"
+Başlangıç,İngilizce,"ABD, İngiltere","Bilim Kurgu, Fantastik"
+Büyük Budapeşte Oteli,İngilizce,"Almanya, ABD","Komedi, Fantastik"
+"Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",İngilizce,"İngiltere, ABD","Fantastik, Macera"
+Kara Orman,Çince,Çin,"Fantastik, Aksiyon"
+Spaceballs,İngilizce,ABD,Komedi
+Monty Python and the Holy Grail,İngilizce,Birleşik Krallık,Komedi
+Life of Brian,İngilizce,Birleşik Krallık,Komedi
+The Big Lebowski,İngilizce,ABD,Komedi
+This Is Spinal Tap,İngilizce,ABD,Komedi
+Shaun of the Dead,İngilizce,Birleşik Krallık,Komedi
+What We Do in the Shadows,İngilizce,Yeni Zelanda,Komedi
+Borat,İngilizce,ABD,Komedi
+Hot Fuzz,İngilizce,Birleşik Krallık,Komedi
+Airplane!,İngilizce,ABD,Komedi
+Hereditary (Ayin),İngilizce,ABD,"Korku, Gizem"
+The Babadook,İngilizce,Avustralya,"Korku, Gerilim"
+It Follows (Peşimdeki Şeytan),İngilizce,ABD,"Korku, Gizem"
+The Witch (Cadı),İngilizce,"ABD, Kanada","Korku, Gizem"
+A Quiet Place (Sessiz Bir Yer),İngilizce,ABD,"Korku, Bilim Kurgu"
+Get Out (Kapan),İngilizce,ABD,"Korku, Gerilim"
+The Conjuring (Korku Seansı),İngilizce,ABD,"Korku, Gerilim"
+Train to Busan (Zombi Ekspresi),Korece,Güney Kore,"Korku, Aksiyon"
+REC,İspanyolca,İspanya,"Korku, Gerilim"
+The Exorcist (Şeytan),İngilizce,ABD,Korku
+Blade Runner 2049,İngilizce,ABD,Bilim Kurgu
+Yıldız Savaşları: İmparatorun Dönüşü,İngilizce,ABD,"Bilim Kurgu, Aksiyon, Macera"
+Geliş,İngilizce,ABD,"Bilim Kurgu, Dram, Gizem"
+2001: Uzay Macerası,İngilizce,"ABD, İngiltere","Bilim Kurgu, Macera"
+Yapay Zeka,İngilizce,ABD,"Bilim Kurgu, Dram"
+Başlangıç,İngilizce,"ABD, İngiltere","Bilim Kurgu, Aksiyon, Gerilim"
+District 9,"İngilizce, Afrikaanca, IsiZulu","Güney Afrika, ABD, Yeni Zelanda, Kanada","Bilim Kurgu, Aksiyon, Gerilim"
+Sonsuzluk Projesi,İngilizce,ABD,"Bilim Kurgu, Gerilim"
+Gattaca,İngilizce,ABD,"Bilim Kurgu, Dram, Gerilim"
+Matrix,İngilizce,"ABD, Avustralya","Bilim Kurgu, Aksiyon"
+Aşk Her Yerde (Love Actually),İngilizce,Birleşik Krallık,Romantik Komedi
+Not Defteri (The Notebook),İngilizce,Amerika Birleşik Devletleri,Romantik Dram
+Titanik (Titanic),İngilizce,Amerika Birleşik Devletleri,Romantik Dram
+Pride & Prejudice (Aşk ve Gurur),İngilizce,Birleşik Krallık,Romantik Dram
+50 İlk Öpücük (50 First Dates),İngilizce,Amerika Birleşik Devletleri,Romantik Komedi
+Sil Baştan (Eternal Sunshine of the Spotless Mind),İngilizce,Amerika Birleşik Devletleri,Romantik Bilim Kurgu
+Amelie,Fransızca,Fransa,Romantik Komedi
+Roma Tatili (Roman Holiday),İngilizce,Amerika Birleşik Devletleri,Romantik Komedi
+Senden Nefret Etmemin 10 Sebebi (10 Things I Hate About You),İngilizce,Amerika Birleşik Devletleri,Romantik Komedi
+Bir Gün (One Day),İngilizce,"Amerika Birleşik Devletleri, Birleşik Krallık",Romantik Dram
+Blade Runner 2049,İngilizce,"ABD, Kanada, İngiltere","Bilim Kurgu, Gerilim"
+Arrival,İngilizce,ABD,"Bilim Kurgu, Dram, Gizem"
+Interstellar,İngilizce,"ABD, İngiltere, Kanada","Bilim Kurgu, Macera, Dram"
+Gattaca,İngilizce,ABD,"Bilim Kurgu, Dram, Gerilim"
+Contact,İngilizce,ABD,"Bilim Kurgu, Dram, Gizem"
+District 9,"İngilizce, Afrikaanca, Xhosa","Güney Afrika, ABD, Yeni Zelanda, Kanada","Bilim Kurgu, Aksiyon, Gerilim"
+Ex Machina,İngilizce,İngiltere,"Bilim Kurgu, Dram, Gerilim"
+Edge of Tomorrow,İngilizce,"ABD, Avustralya","Bilim Kurgu, Aksiyon"
+Moon,İngilizce,İngiltere,"Bilim Kurgu, Dram, Gizem"
+Children of Men,İngilizce,"ABD, İngiltere","Bilim Kurgu, Gerilim, Dram"
+Esaretin Bedeli (The Shawshank Redemption),İngilizce,ABD,Dram
+Baba (The Godfather),"İngilizce, İtalyanca, Latince",ABD,"Suç, Dram"
+Kara Şövalye (The Dark Knight),İngilizce,"ABD, İngiltere","Aksiyon, Suç, Dram"
+Schindler'in Listesi (Schindler's List),"İngilizce, Almanca, İbranice, Lehçe",ABD,"Biyografi, Dram, Tarih"
+Yüzüklerin Efendisi: Yüzük Kardeşliği (The Lord of the Rings: The Fellowship of the Ring),"İngilizce, Sindarin","Yeni Zelanda, ABD","Aksiyon, Macera, Fantastik"
+Dövüş Kulübü (Fight Club),İngilizce,"ABD, Almanya",Dram
+Başlangıç (Inception),"İngilizce, Japonca, Fransızca","ABD, İngiltere","Aksiyon, Bilim Kurgu, Gerilim"
+"İyi, Kötü ve Çirkin (Il buono, il brutto, il cattivo)","İtalyanca, İngilizce","İtalya, İspanya, Almanya",Western
+Forrest Gump,İngilizce,ABD,"Dram, Romantik"
+Parazit (Gisaengchung),Korece,Güney Kore,"Komedi, Dram, Gerilim"
+Kuzuların Sessizliği,İngilizce,ABD,Gerilim
+Yedi,İngilizce,ABD,Gerilim
+Testere,İngilizce,ABD,Gerilim
+Akıl Oyunları,İngilizce,ABD,Gerilim
+Zindan Adası,İngilizce,ABD,Gerilim
+Kusursuz Cinayet,İngilizce,ABD,Gerilim
+Ölümcül Takip,Korece,Güney Kore,Gerilim
+Gerçeğin Peşinde,İspanyolca,İspanya,Gerilim
+Kayıp Kız,İngilizce,ABD,Gerilim
+Şüphe,İngilizce,ABD,Gerilim
+Kuzuların Sessizliği (The Silence of the Lambs),İngilizce,ABD,"Gerilim, Suç"
+Yedi (Se7en),İngilizce,ABD,"Gerilim, Suç, Gizem"
+Akıl Oyunları (The Game),İngilizce,ABD,"Gerilim, Gizem"
+Sapık (Psycho),İngilizce,ABD,"Korku, Gerilim, Gizem"
+Köstebek (The Departed),İngilizce,ABD,"Gerilim, Suç, Dram"
+Şüphe (Prisoners),İngilizce,ABD,"Gerilim, Suç, Dram"
+Memento,İngilizce,ABD,"Gerilim, Gizem"
+Mekanik (The Machinist),İngilizce,"İspanya, ABD, Fransa, İngiltere","Gerilim, Dram, Gizem"
+Zindan Adası (Shutter Island),İngilizce,ABD,"Gerilim, Gizem"
+Mavi Kadife (Blue Velvet),İngilizce,ABD,"Gerilim, Gizem, Dram"
+Kuzuların Sessizliği,İngilizce,ABD,Gerilim
+Yedi,İngilizce,ABD,Gerilim
+Akıl Oyunları,İngilizce,ABD,Gerilim
+Zodiac,İngilizce,ABD,Gerilim
+Köstebek,İngilizce,ABD,Gerilim
+Şüphe,Fransızca,Fransa,Gerilim
+Mekanik,İspanyolca,İspanya,Gerilim
+Parazit,Korece,Güney Kore,Gerilim
+Hatırlatma,İngilizce,ABD,Gerilim
+Kayıp Kız,İngilizce,ABD,Gerilim
+Esaretin Bedeli,İngilizce,ABD,Drama
+Yeşil Yol,İngilizce,ABD,"Drama, Fantastik"
+Schindler'in Listesi,"İngilizce, Almanca, İbranice",ABD,"Drama, Tarihi, Savaş"
+Can Dostum,İngilizce,ABD,Drama
+Dövüş Kulübü,İngilizce,ABD,Drama
+Piyanist,"İngilizce, Almanca","Fransa, Polonya, Almanya, İngiltere","Drama, Biyografi, Savaş"
+Forrest Gump,İngilizce,ABD,"Drama, Romantik"
+Kuzuların Sessizliği,İngilizce,ABD,"Drama, Gerilim, Suç"
+Hayat Güzeldir,"İtalyanca, Almanca",İtalya,"Drama, Komedi, Savaş"
+Baba,"İngilizce, İtalyanca, Latince, Sicilyaca",ABD,"Drama, Suç"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,İngilizce,"Yeni Zelanda, ABD","Fantastik, Macera"
+Ejderha Dövmeli Kız,İsveçce,"İsveç, Danimarka, Almanya, Norveç","Gerilim, Gizem, Suç"
+Pan'ın Labirenti,İspanyolca,"Meksika, İspanya","Fantastik, Dram"
+Prenses Mononoke,Japonca,Japonya,"Animasyon, Fantastik, Macera"
+Harry Potter ve Felsefe Taşı,İngilizce,"ABD, İngiltere","Fantastik, Aile, Macera"
+Başlangıç,İngilizce,"ABD, İngiltere","Bilim Kurgu, Aksiyon, Macera"
+"Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",İngilizce,"ABD, İngiltere","Fantastik, Macera, Aile"
+Büyük Budapeşte Oteli,İngilizce,"ABD, Almanya","Komedi, Macera, Suç"
+Stardust,İngilizce,"ABD, İngiltere","Fantastik, Romantik, Macera"
+Efsane,İngilizce,"ABD, İngiltere","Fantastik, Macera"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,İngilizce,"ABD, Yeni Zelanda","Fantastik, Macera"
+Harry Potter ve Felsefe Taşı,İngilizce,"Birleşik Krallık, ABD","Fantastik, Aile"
+Prenses Gelin,İngilizce,ABD,"Fantastik, Komedi, Macera"
+Pan'ın Labirenti,İspanyolca,"Meksika, İspanya","Fantastik, Dram, Savaş"
+Ejderhanı Nasıl Eğitirsin,İngilizce,ABD,"Fantastik, Animasyon, Macera"
+"Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",İngilizce,"Birleşik Krallık, ABD","Fantastik, Macera"
+Stardust,İngilizce,"ABD, Birleşik Krallık","Fantastik, Macera, Romantik"
+Efsane,İngilizce,"ABD, Birleşik Krallık","Fantastik, Macera"
+Willow,İngilizce,ABD,"Fantastik, Macera"
+NeverEnding Story,İngilizce,"Almanya, ABD","Fantastik, Macera, Aile"
+Free Solo,İngilizce,ABD,"Belgesel, Spor"
+Icarus,"İngilizce, Rusça",ABD,"Belgesel, Spor, Gerilim"
+My Octopus Teacher,İngilizce,Güney Afrika,"Belgesel, Doğa"
+The Social Dilemma,İngilizce,ABD,"Belgesel, Drama"
+Citizenfour,"İngilizce, Almanca","ABD, Almanya, Birleşik Krallık","Belgesel, Biyografi, Gerilim"
+Amy,İngilizce,Birleşik Krallık,"Belgesel, Biyografi, Müzik"
+Blackfish,İngilizce,ABD,"Belgesel, Suç, Drama"
+Searching for Sugar Man,"İngilizce, İsveççe","İsveç, Birleşik Krallık","Belgesel, Müzik"
+Exit Through the Gift Shop,"İngilizce, Fransızca","Birleşik Krallık, ABD","Belgesel, Komedi, Suç"
+Man with a Movie Camera,Rusça (sessiz),Sovyetler Birliği,"Belgesel, Deneysel"
+Hayat Güzeldir (La Vita è Bella),İtalyanca,İtalya,"Dram, Komedi, Savaş"
+"Aptal Aşıklar (Crazy, Stupid, Love)",İngilizce,ABD,Romantik Komedi
+Bekarlığa Veda (The Hangover),İngilizce,ABD,Komedi
+Geleceğe Dönüş (Back to the Future),İngilizce,ABD,"Bilim Kurgu, Komedi, Macera"
+Şeker Portakalı (Meu Pé de Laranja Lima),Portekizce,Brezilya,"Dram, Komedi"
+Görünmeyen Misafir (Contratiempo),İspanyolca,İspanya,"Gizem, Gerilim, Suç"
+Asabiyim Ben (Anger Management),İngilizce,ABD,Komedi
+Borat,İngilizce,ABD,Komedi
+Pişman Olmayacağım (Je ne suis pas un homme facile),Fransızca,Fransa,Komedi
+Bay Evet (Yes Man),İngilizce,ABD,Komedi
+Kuzuların Sessizliği,İngilizce,ABD,"Gizem, Gerilim"
+Prestij,İngilizce,"ABD, İngiltere","Gizem, Bilim Kurgu, Gerilim"
+Kayıp Kız,İngilizce,ABD,"Gizem, Gerilim, Dram"
+Yedi,İngilizce,ABD,"Gizem, Suç, Gerilim"
+Bıçaklar Çekildi,İngilizce,ABD,"Gizem, Komedi, Suç"
+Arka Pencere,İngilizce,ABD,"Gizem, Gerilim"
+Akıl Defteri,İngilizce,ABD,"Gizem, Gerilim"
+Shutter Island,İngilizce,ABD,"Gizem, Gerilim, Psikolojik Gerilim"
+Zodiac,İngilizce,ABD,"Gizem, Suç, Gerilim"
+Usual Suspects,İngilizce,"ABD, Almanya","Gizem, Suç, Gerilim"
+Mad Max: Fury Road,İngilizce,"Avustralya, ABD","Aksiyon, Bilim Kurgu"
+John Wick,İngilizce,ABD,"Aksiyon, Gerilim"
+The Raid: Redemption,Endonezce,Endonezya,"Aksiyon, Suç"
+Mission: Impossible - Fallout,İngilizce,ABD,"Aksiyon, Macera"
+Die Hard,İngilizce,ABD,"Aksiyon, Gerilim"
+Terminator 2: Judgment Day,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Kill Bill: Vol. 1,"İngilizce, Japonca",ABD,"Aksiyon, Suç"
+Edge of Tomorrow,İngilizce,"ABD, Avustralya","Aksiyon, Bilim Kurgu"
+"Crouching Tiger, Hidden Dragon",Mandarin,"Çin, Hong Kong, Tayvan, ABD","Aksiyon, Fantastik"
+Casino Royale,"İngilizce, Fransızca, Almanca","Birleşik Krallık, ABD, Çek Cumhuriyeti, Almanya","Aksiyon, Macera"
+Esaretin Bedeli,İngilizce,ABD,Dram
+Baba,İngilizce,ABD,"Suç, Dram"
+Kara Şövalye,İngilizce,"ABD, İngiltere","Aksiyon, Suç, Dram"
+12 Öfkeli Adam,İngilizce,ABD,Dram
+Schindler'in Listesi,"İngilizce, Almanca, İbranice, Lehçe",ABD,"Biyografi, Dram, Tarih"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,"İngilizce, Sindarin","Yeni Zelanda, ABD","Aksiyon, Macera, Fantastik"
+Dövüş Kulübü,İngilizce,"ABD, Almanya",Dram
+Başlangıç,"İngilizce, Japonca, Fransızca","ABD, İngiltere","Aksiyon, Macera, Bilim Kurgu"
+Forrest Gump,İngilizce,ABD,"Dram, Romantik"
+"İyi, Kötü ve Çirkin",İtalyanca,"İtalya, İspanya, Almanya",Western
+Aşk Her Yerde (Love Actually),İngilizce,Birleşik Krallık,Romantik Komedi
+Not Defteri (The Notebook),İngilizce,ABD,Romantik Drama
+Titanik (Titanic),İngilizce,ABD,Romantik Drama
+Kiraz Mevsimi (In the Mood for Love),Kantonca,Hong Kong,Romantik Drama
+Amélie,Fransızca,Fransa,Romantik Komedi
+Aynı Yıldızın Altında (The Fault in Our Stars),İngilizce,ABD,Romantik Drama
+50 İlk Öpücük (50 First Dates),İngilizce,ABD,Romantik Komedi
+Aşk (Her),İngilizce,ABD,Romantik Bilim Kurgu
+Gönül Yarası,Türkçe,Türkiye,Romantik Drama
+Evlen Benimle (Marry Me),İngilizce,ABD,Romantik Komedi
+Esaretin Bedeli,İngilizce,ABD,Drama
+Yeşil Yol,İngilizce,ABD,Drama
+Forrest Gump,İngilizce,ABD,Drama
+Piyanist,İngilizce,"Fransa, Polonya, Almanya, İngiltere","Drama, Biyografi, Savaş"
+Schindler'in Listesi,İngilizce,ABD,"Drama, Tarih, Savaş"
+Can Dostum (Intouchables),Fransızca,Fransa,"Drama, Komedi"
+Hayat Güzeldir (La Vita è Bella),İtalyanca,İtalya,"Drama, Komedi, Savaş"
+12 Kızgın Adam,İngilizce,ABD,Drama
+Baba (The Godfather),"İngilizce, İtalyanca, Latince, Sicilyaca",ABD,"Drama, Suç"
+Akıl Oyunları (A Beautiful Mind),İngilizce,ABD,"Drama, Biyografi"
+Esaretin Bedeli,İngilizce,ABD,Dram
+Baba,İngilizce,ABD,"Suç, Dram"
+Kara Şövalye,İngilizce,"ABD, İngiltere","Aksiyon, Suç, Dram"
+12 Öfkeli Adam,İngilizce,ABD,Dram
+Schindler'in Listesi,"İngilizce, Almanca, İbranice, Lehçe",ABD,"Biyografi, Dram, Tarih"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,"İngilizce, Sindarin","Yeni Zelanda, ABD","Aksiyon, Macera, Fantastik"
+Dövüş Kulübü,İngilizce,"ABD, Almanya",Dram
+Başlangıç,"İngilizce, Japonca, Fransızca","ABD, İngiltere","Aksiyon, Macera, Bilim Kurgu"
+Forrest Gump,İngilizce,ABD,"Dram, Romantik"
+"İyi, Kötü ve Çirkin",İtalyanca,"İtalya, İspanya, Batı Almanya",Western
+Kuzuların Sessizliği,İngilizce,ABD,"Gizem, Gerilim, Suç"
+Kayıp Kız,İngilizce,ABD,"Gizem, Gerilim, Dram"
+Cinayet Günlüğü,Korece,Güney Kore,"Gizem, Gerilim, Suç"
+Bıçaklar Çekildi,İngilizce,ABD,"Gizem, Komedi, Suç"
+Prestij,İngilizce,"ABD, İngiltere","Gizem, Dram, Gerilim"
+Yedinci,İngilizce,ABD,"Gizem, Gerilim, Suç"
+Akıl Defteri,İngilizce,ABD,"Gizem, Gerilim"
+Zindan Adası,İngilizce,ABD,"Gizem, Gerilim, Dram"
+Şüphe,İngilizce,ABD,"Gizem, Gerilim, Suç"
+Kusursuz Cinayet,İngilizce,ABD,"Gizem, Gerilim, Suç"
+Esaretin Bedeli,İngilizce,ABD,Drama
+Yeşil Yol,İngilizce,ABD,Drama
+Piyanist,"İngilizce, Almanca, Rusça","Fransa, İngiltere, Almanya, Polonya","Drama, Biyografi, Savaş"
+Schindler'in Listesi,"İngilizce, Almanca, İbranice",ABD,"Drama, Tarih, Savaş"
+Can Dostum,Fransızca,Fransa,"Drama, Komedi"
+Forrest Gump,İngilizce,ABD,"Drama, Romantik"
+Hayat Güzeldir,"İtalyanca, Almanca, İngilizce",İtalya,"Drama, Komedi, Savaş"
+Akıl Oyunları,İngilizce,ABD,"Drama, Biyografi"
+Kuzuların Sessizliği,İngilizce,ABD,"Gerilim, Drama, Suç"
+Dövüş Kulübü,İngilizce,"ABD, Almanya",Drama
+Esaretin Bedeli (The Shawshank Redemption),İngilizce,ABD,Drama
+Yeşil Yol (The Green Mile),İngilizce,ABD,"Drama, Fantastik"
+Schindler'in Listesi (Schindler's List),"İngilizce, Almanca, İbranice",ABD,"Drama, Tarih, Biyografi"
+Forrest Gump,İngilizce,ABD,"Drama, Romantik"
+Piyanist (The Pianist),"İngilizce, Almanca","Fransa, Polonya, Almanya, İngiltere","Drama, Biyografi, Savaş"
+Can Dostum (Good Will Hunting),İngilizce,ABD,Drama
+Hayat Güzeldir (La Vita è Bella),İtalyanca,İtalya,"Drama, Komedi, Savaş"
+12 Öfkeli Adam (12 Angry Men),İngilizce,ABD,Drama
+Guguk Kuşu (One Flew Over the Cuckoo's Nest),İngilizce,ABD,Drama
+Baba (The Godfather),"İngilizce, İtalyanca, Latince, Sicilyaca",ABD,"Drama, Suç"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,İngilizce,"ABD, Yeni Zelanda","Fantastik, Macera"
+Harry Potter ve Felsefe Taşı,İngilizce,"İngiltere, ABD","Fantastik, Aile"
+Pan'ın Labirenti,İspanyolca,"İspanya, Meksika","Fantastik, Drama"
+Ejderhanı Nasıl Eğitirsin,İngilizce,ABD,"Animasyon, Fantastik"
+Prenses Mononoke,Japonca,Japonya,"Animasyon, Fantastik"
+Başlangıç (Inception),İngilizce,"ABD, İngiltere","Bilim Kurgu, Aksiyon, Fantastik"
+Sonsuzluk Savaşı,İngilizce,ABD,"Aksiyon, Fantastik, Bilim Kurgu"
+Malefiz,İngilizce,ABD,"Fantastik, Macera"
+Stardust,İngilizce,"İngiltere, ABD","Fantastik, Romantik"
+Yaratık (The Shape of Water),İngilizce,ABD,"Fantastik, Drama, Romantik"
+Blade Runner 2049,İngilizce,ABD,Bilim Kurgu
+Arrival,İngilizce,ABD,Bilim Kurgu
+Interstellar,İngilizce,ABD,Bilim Kurgu
+Gattaca,İngilizce,ABD,Bilim Kurgu
+District 9,İngilizce,"Güney Afrika, ABD",Bilim Kurgu
+Ex Machina,İngilizce,Birleşik Krallık,Bilim Kurgu
+Children of Men,İngilizce,"Birleşik Krallık, ABD",Bilim Kurgu
+Primer,İngilizce,ABD,Bilim Kurgu
+Moon,İngilizce,Birleşik Krallık,Bilim Kurgu
+Stalker (İz Sürücü),Rusça,Sovyetler Birliği,"Bilim Kurgu, Sanat"
+Mad Max: Fury Road,İngilizce,"Avustralya, ABD","Aksiyon, Bilim Kurgu"
+John Wick,İngilizce,ABD,"Aksiyon, Gerilim"
+The Raid: Redemption,Endonezce,Endonezya,"Aksiyon, Suç"
+Mission: Impossible - Fallout,İngilizce,ABD,"Aksiyon, Macera"
+Terminator 2: Judgment Day,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Kill Bill: Vol. 1,"İngilizce, Japonca",ABD,"Aksiyon, Suç"
+Die Hard,İngilizce,ABD,"Aksiyon, Gerilim"
+"Crouching Tiger, Hidden Dragon",Mandarin,"Çin, Tayvan, Hong Kong, ABD","Aksiyon, Fantastik"
+Edge of Tomorrow,İngilizce,"ABD, Avustralya","Aksiyon, Bilim Kurgu"
+The Matrix,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Hereditary,İngilizce,ABD,"Korku, Gizem"
+The Babadook,İngilizce,Avustralya,"Korku, Gerilim"
+It Follows,İngilizce,ABD,"Korku, Gizem"
+The Witch,İngilizce,"ABD, Kanada","Korku, Gizem"
+Get Out,İngilizce,ABD,"Korku, Gerilim"
+A Quiet Place,İngilizce,ABD,"Korku, Bilim Kurgu"
+Train to Busan,Korece,Güney Kore,"Korku, Aksiyon"
+The Conjuring,İngilizce,ABD,"Korku, Gerilim"
+REC,İspanyolca,İspanya,"Korku, Gerilim"
+The Exorcist,İngilizce,ABD,Korku
+Mad Max: Fury Road,İngilizce,"Avustralya, ABD","Aksiyon, Bilim Kurgu"
+John Wick,İngilizce,ABD,"Aksiyon, Gerilim"
+The Raid: Redemption,Endonezyaca,Endonezya,"Aksiyon, Dövüş Sanatları"
+Mission: Impossible - Fallout,İngilizce,ABD,"Aksiyon, Casusluk"
+Kill Bill: Vol. 1,"İngilizce, Japonca",ABD,"Aksiyon, Suç"
+Terminator 2: Judgment Day,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Die Hard,İngilizce,ABD,"Aksiyon, Gerilim"
+Gladiator,İngilizce,"ABD, Birleşik Krallık","Aksiyon, Dram"
+"Crouching Tiger, Hidden Dragon",Mandarin,"Çin, Hong Kong, Tayvan, ABD","Aksiyon, Dövüş Sanatları"
+Edge of Tomorrow,İngilizce,"ABD, Avustralya","Aksiyon, Bilim Kurgu"
+Aşk Her Yerde (Love Actually),İngilizce,Birleşik Krallık,Romantik Komedi
+Not Defteri (The Notebook),İngilizce,ABD,Romantik Dram
+Aşıklar Şehri (La La Land),İngilizce,ABD,Romantik Müzikal
+Titanik (Titanic),İngilizce,ABD,Romantik Dram
+Pride & Prejudice (Aşk ve Gurur),İngilizce,Birleşik Krallık,Romantik Dram
+50 İlk Öpücük (50 First Dates),İngilizce,ABD,Romantik Komedi
+Kiraz Mevsimi (Chungking Express),"Kantonca, İngilizce",Hong Kong,Romantik Dram
+Seninle Karşılaşmadan Önce (Me Before You),İngilizce,"ABD, Birleşik Krallık",Romantik Dram
+Geleceğe Dönüş (About Time),İngilizce,Birleşik Krallık,"Romantik Komedi, Bilim Kurgu"
+Amelie,Fransızca,Fransa,Romantik Komedi
+Aşk Her Yerde (Love Actually),İngilizce,Birleşik Krallık,Romantik Komedi
+Not Defteri (The Notebook),İngilizce,Amerika Birleşik Devletleri,Romantik Dram
+Titanik (Titanic),İngilizce,Amerika Birleşik Devletleri,Romantik Dram
+Kiraz Mevsimi (Chungking Express),Kantonca,Hong Kong,Romantik Dram
+Aşk (Amour),Fransızca,"Fransa, Almanya, Avusturya",Romantik Dram
+500 Days of Summer,İngilizce,Amerika Birleşik Devletleri,Romantik Komedi
+Pride & Prejudice,İngilizce,"Birleşik Krallık, Fransa, Amerika Birleşik Devletleri",Romantik Dram
+Before Sunrise,İngilizce,"Amerika Birleşik Devletleri, Avusturya, İsviçre",Romantik Dram
+When Harry Met Sally...,İngilizce,Amerika Birleşik Devletleri,Romantik Komedi
+City Lights,Sessiz Film (Ara Yazılar İngilizce),Amerika Birleşik Devletleri,"Romantik Komedi, Dram"
+Esaretin Bedeli (The Shawshank Redemption),İngilizce,ABD,Dram
+Baba (The Godfather),"İngilizce, İtalyanca, Latince",ABD,"Suç, Dram"
+Kara Şövalye (The Dark Knight),İngilizce,"ABD, İngiltere","Aksiyon, Suç, Dram"
+12 Öfkeli Adam (12 Angry Men),İngilizce,ABD,Dram
+Schindler'in Listesi (Schindler's List),"İngilizce, Almanca, İbranice, Lehçe",ABD,"Biyografi, Dram, Tarih"
+Yüzüklerin Efendisi: Yüzük Kardeşliği (The Lord of the Rings: The Fellowship of the Ring),"İngilizce, Sindarin","Yeni Zelanda, ABD","Aksiyon, Macera, Fantastik"
+Ucuz Roman (Pulp Fiction),"İngilizce, Fransızca, İspanyolca",ABD,"Suç, Dram"
+"İyi, Kötü ve Çirkin (Il buono, il brutto, il cattivo)",İtalyanca,"İtalya, İspanya, Batı Almanya",Western
+Dövüş Kulübü (Fight Club),İngilizce,"ABD, Almanya",Dram
+Forrest Gump,İngilizce,ABD,"Dram, Romantik"
+Hereditary (Ayin),İngilizce,ABD,"Korku, Gizem"
+The Babadook,İngilizce,"Avustralya, Kanada","Korku, Gerilim"
+It Follows (Peşimdeki Şeytan),İngilizce,ABD,"Korku, Gizem"
+The Witch (Cadı),İngilizce,"ABD, Kanada, İngiltere, Brezilya","Korku, Tarihi"
+A Quiet Place (Sessiz Bir Yer),İngilizce,ABD,"Korku, Bilim Kurgu"
+Get Out (Kapan),İngilizce,ABD,"Korku, Gerilim"
+Train to Busan (Zombi Ekspresi),Korece,Güney Kore,"Korku, Aksiyon"
+The Exorcist (Şeytan),İngilizce,ABD,Korku
+Psycho (Sapık),İngilizce,ABD,"Korku, Gerilim"
+The Shining (Cinnet),İngilizce,"ABD, İngiltere","Korku, Gerilim"
+Hayat Güzeldir (La vita è bella),İtalyanca,İtalya,Komedi-Drama
+Aptal ve Avan (Dumb and Dumber),İngilizce,ABD,Komedi
+Monty Python ve Kutsal Kase (Monty Python and the Holy Grail),İngilizce,İngiltere,Komedi
+Ace Ventura: Pet Detective,İngilizce,ABD,Komedi
+Bekarlığa Veda (The Hangover),İngilizce,ABD,Komedi
+Geleceğe Dönüş (Back to the Future),İngilizce,ABD,"Bilim Kurgu, Komedi"
+Evde Tek Başına (Home Alone),İngilizce,ABD,"Komedi, Aile"
+Borat,İngilizce,"ABD, İngiltere","Komedi, Mockumentary"
+Sahte Nişanlı (The Proposal),İngilizce,ABD,Romantik Komedi
+Şeker Portakalı (Meu Pé de Laranja Lima),Portekizce,Brezilya,Komedi-Drama
+Hereditary,İngilizce,ABD,"Korku, Gizem"
+The Babadook,İngilizce,Avustralya,"Korku, Gerilim"
+It Follows,İngilizce,ABD,"Korku, Gizem"
+The Witch,İngilizce,"ABD, Kanada","Korku, Gizem"
+A Quiet Place,İngilizce,ABD,"Korku, Bilim Kurgu"
+Get Out,İngilizce,ABD,"Korku, Gerilim"
+The Conjuring,İngilizce,ABD,"Korku, Gerilim"
+Train to Busan,Korece,Güney Kore,"Korku, Aksiyon"
+REC,İspanyolca,İspanya,"Korku, Gerilim"
+The Ring (Halka),Japonca,Japonya,"Korku, Gizem"
+Kuzuların Sessizliği (The Silence of the Lambs),İngilizce,ABD,Gizem/Gerilim
+Akıl Oyunları (A Beautiful Mind),İngilizce,ABD,Biyografi/Dram/Gizem
+Prestij (The Prestige),İngilizce,ABD/Birleşik Krallık,Gizem/Gerilim/Bilim Kurgu
+Kayıp Kız (Gone Girl),İngilizce,ABD,Gizem/Gerilim
+Yedi (Se7en),İngilizce,ABD,Gizem/Gerilim/Suç
+Ölüm Korkusu (Vertigo),İngilizce,ABD,Gizem/Gerilim
+Cinayet Mahalli (Zodiac),İngilizce,ABD,Gizem/Suç/Gerilim
+Memento,İngilizce,ABD,Gizem/Gerilim
+Köstebek (Tinker Tailor Soldier Spy),İngilizce,Birleşik Krallık/Fransa/Almanya,Gizem/Gerilim/Casusluk
+Şüphe (The Usual Suspects),İngilizce,ABD,Gizem/Suç/Gerilim
+Blade Runner 2049,İngilizce,ABD,"Bilim Kurgu, Gerilim"
+Arrival,İngilizce,ABD,"Bilim Kurgu, Dram, Gizem"
+Interstellar,İngilizce,"ABD, İngiltere","Bilim Kurgu, Macera, Dram"
+Gattaca,İngilizce,ABD,"Bilim Kurgu, Dram, Gerilim"
+District 9,"İngilizce, Afrikaanca, IsiXhosa","Güney Afrika, ABD, Yeni Zelanda, Kanada","Bilim Kurgu, Aksiyon, Gerilim"
+Children of Men,İngilizce,"ABD, İngiltere","Bilim Kurgu, Dram, Gerilim"
+Primer,İngilizce,ABD,"Bilim Kurgu, Dram, Gerilim"
+Moon,İngilizce,İngiltere,"Bilim Kurgu, Dram, Gizem"
+Eternal Sunshine of the Spotless Mind,İngilizce,ABD,"Bilim Kurgu, Romantik, Dram"
+Stalker,Rusça,Sovyetler Birliği,"Bilim Kurgu, Dram, Gizem"
+Ah Nerede,Türkçe,Türkiye,Komedi
+Tosun Paşa,Türkçe,Türkiye,Komedi
+GORA,Türkçe,Türkiye,Komedi
+Hababam Sınıfı,Türkçe,Türkiye,Komedi
+Düğün Dernek,Türkçe,Türkiye,Komedi
+The Hangover,İngilizce,ABD,Komedi
+Superbad,İngilizce,ABD,Komedi
+21 Jump Street,İngilizce,ABD,Komedi
+Bridesmaids,İngilizce,ABD,Komedi
+Borat,İngilizce,ABD,Komedi
+Kuzuların Sessizliği,İngilizce,ABD,"Gerilim, Suç"
+Yedi,İngilizce,ABD,"Gerilim, Suç, Gizem"
+Testere,İngilizce,"ABD, Avustralya","Gerilim, Korku, Suç"
+Akıl Oyunları,İngilizce,ABD,"Gerilim, Dram, Biyografi"
+Gone Girl,İngilizce,ABD,"Gerilim, Gizem, Dram"
+Zodiac,İngilizce,ABD,"Gerilim, Suç, Gizem"
+İhtiyar Delikanlı,Korece,Güney Kore,"Gerilim, Aksiyon, Gizem"
+Memento,İngilizce,ABD,"Gerilim, Gizem"
+Köstebek,İngilizce,ABD,"Gerilim, Suç, Dram"
+Parazit,Korece,Güney Kore,"Gerilim, Dram, Komedi"
+Mad Max: Fury Road,İngilizce,"Avustralya, ABD","Aksiyon, Bilim Kurgu"
+John Wick,İngilizce,ABD,"Aksiyon, Gerilim"
+The Raid: Redemption,Endonezce,Endonezya,"Aksiyon, Dövüş Sanatları"
+Terminator 2: Judgment Day,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Die Hard,İngilizce,ABD,"Aksiyon, Gerilim"
+Mission: Impossible - Fallout,İngilizce,ABD,"Aksiyon, Casusluk"
+Kill Bill: Vol. 1,"İngilizce, Japonca",ABD,"Aksiyon, Suç"
+Edge of Tomorrow,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+"Crouching Tiger, Hidden Dragon",Mandarin,"Çin, Tayvan, Hong Kong, ABD","Aksiyon, Fantastik"
+Gladiator,İngilizce,"ABD, İngiltere","Aksiyon, Dram"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,İngilizce,"ABD, Yeni Zelanda","Fantastik, Macera"
+Ejderhanı Nasıl Eğitirsin,İngilizce,ABD,"Animasyon, Fantastik, Macera"
+Prenses Gelin,İngilizce,ABD,"Fantastik, Komedi, Macera"
+Pan'ın Labirenti,İspanyolca,"İspanya, Meksika","Fantastik, Dram, Savaş"
+Harry Potter ve Felsefe Taşı,İngilizce,"Birleşik Krallık, ABD","Fantastik, Macera, Aile"
+"Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?",İngilizce,"Birleşik Krallık, ABD","Fantastik, Macera"
+Stardust,İngilizce,"Birleşik Krallık, ABD","Fantastik, Macera, Romantik"
+Efsane,İngilizce,"Birleşik Krallık, ABD","Fantastik, Macera"
+NeverEnding Story,İngilizce,"Batı Almanya, ABD","Fantastik, Macera, Aile"
+Willow,İngilizce,ABD,"Fantastik, Macera"
+Free Solo,İngilizce,ABD,"Belgesel, Spor"
+Icarus,"İngilizce, Rusça",ABD,"Belgesel, Spor, Gerilim"
+Amy,İngilizce,Birleşik Krallık,"Belgesel, Biyografi, Müzik"
+Citizenfour,İngilizce,"ABD, Almanya, Birleşik Krallık","Belgesel, Biyografi, Haber"
+The Act of Killing,"Endonezyaca, İngilizce","Danimarka, Norveç, Birleşik Krallık","Belgesel, Suç, Tarih"
+Man with a Movie Camera,Sessiz,Sovyetler Birliği,"Belgesel, Deneysel"
+Searching for Sugar Man,"İngilizce, Afrikaans","İsveç, Birleşik Krallık","Belgesel, Müzik"
+Blackfish,İngilizce,ABD,"Belgesel, Drama"
+My Octopus Teacher,İngilizce,Güney Afrika,"Belgesel, Doğa"
+The Cove,"İngilizce, Japonca",ABD,"Belgesel, Suç, Gerilim"
+Kuzuların Sessizliği,İngilizce,ABD,"Gerilim, Suç"
+Yedi,İngilizce,ABD,"Gerilim, Suç, Gizem"
+Zindan Adası,İngilizce,ABD,"Gerilim, Gizem"
+Teslimiyet,İngilizce,ABD,"Gerilim, Psikolojik Gerilim"
+Kusursuz Cinayet,İngilizce,ABD,"Gerilim, Suç"
+Sapık,İngilizce,ABD,"Gerilim, Korku"
+Ölümcül Oyun,İngilizce,ABD,"Gerilim, Gizem"
+İhtiyar Delikanlı,Korece,Güney Kore,"Gerilim, Aksiyon, Gizem"
+Kayıp Kız,İngilizce,ABD,"Gerilim, Gizem"
+Gerilim,İngilizce,ABD,"Gerilim, Psikolojik Gerilim"
+Free Solo,İngilizce,ABD,"Belgesel, Spor"
+Icarus,"İngilizce, Rusça",ABD,"Belgesel, Spor, Gerilim"
+Amy,İngilizce,Birleşik Krallık,"Belgesel, Müzik"
+Man with a Movie Camera,Sessiz,Sovyetler Birliği,"Belgesel, Deneysel"
+The Act of Killing,"Endonezyaca, İngilizce","Danimarka, Norveç, Birleşik Krallık","Belgesel, Suç, Tarih"
+Citizenfour,İngilizce,"Almanya, ABD, Birleşik Krallık","Belgesel, Biyografi, Gerilim"
+Searching for Sugar Man,"İngilizce, Afrikaans","İsveç, Birleşik Krallık","Belgesel, Müzik"
+Blackfish,İngilizce,ABD,"Belgesel, Dram, Gizem"
+Our Planet,İngilizce,"ABD, Birleşik Krallık","Belgesel, Doğa"
+Inside Job,İngilizce,ABD,"Belgesel, Suç"
+Esaretin Bedeli,İngilizce,ABD,Dram
+Baba,İngilizce,ABD,"Suç, Dram"
+Kara Şövalye,İngilizce,"ABD, İngiltere","Aksiyon, Suç, Dram"
+12 Öfkeli Adam,İngilizce,ABD,Dram
+Schindler'in Listesi,"İngilizce, Almanca, İbranice, Lehçe",ABD,"Biyografi, Dram, Tarih"
+Yüzüklerin Efendisi: Yüzük Kardeşliği,"İngilizce, Sindarin","Yeni Zelanda, ABD","Aksiyon, Macera, Fantastik"
+Forrest Gump,İngilizce,ABD,"Dram, Romantik"
+Başlangıç,"İngilizce, Japonca, Fransızca","ABD, İngiltere","Aksiyon, Bilim Kurgu, Gerilim"
+Dövüş Kulübü,İngilizce,"ABD, Almanya",Dram
+"İyi, Kötü ve Çirkin",İtalyanca,"İtalya, İspanya, Almanya",Western
+The Exorcist,İngilizce,ABD,Korku
+Hereditary,İngilizce,ABD,"Korku, Gizem"
+The Babadook,İngilizce,Avustralya,"Korku, Gerilim"
+It Follows,İngilizce,ABD,"Korku, Gizem"
+The Witch,İngilizce,"ABD, Kanada, İngiltere, Brezilya","Korku, Tarihi"
+A Quiet Place,İngilizce,ABD,"Korku, Bilim Kurgu, Gerilim"
+Get Out,İngilizce,ABD,"Korku, Gizem, Gerilim"
+REC,İspanyolca,İspanya,"Korku, Gerilim"
+Train to Busan,Korece,Güney Kore,"Korku, Aksiyon, Gerilim"
+The Ring,Japonca,Japonya,"Korku, Gizem"
+Esaretin Bedeli,İngilizce,ABD,Drama
+Yeşil Yol,İngilizce,ABD,Drama
+Can Dostum,Fransızca,Fransa,Drama
+Piyanist,İngilizce,"Fransa, Polonya, Almanya, İngiltere",Drama
+Forrest Gump,İngilizce,ABD,Drama
+Hayat Güzeldir,İtalyanca,İtalya,Drama
+Akıl Oyunları,İngilizce,ABD,Drama
+Guguk Kuşu,İngilizce,ABD,Drama
+Schindler'in Listesi,İngilizce,ABD,Drama
+Umudunu Kaybetme,İngilizce,ABD,Drama
+Aşkın (Her) Şeyi,İngilizce,"Birleşik Krallık, ABD","Biyografi, Dram, Romantik"
+Aşk Engel Tanımaz,İngilizce,ABD,Romantik Komedi
+Aşk ve Gurur,İngilizce,"Birleşik Krallık, Fransa, ABD","Dram, Romantik"
+Aşk Mektupları,Türkçe,Türkiye,"Dram, Romantik"
+Issız Adam,Türkçe,Türkiye,"Dram, Romantik"
+Not Defteri,İngilizce,ABD,"Dram, Romantik"
+Titanik,İngilizce,ABD,"Dram, Romantik"
+Sil Baştan,İngilizce,ABD,"Dram, Romantik, Bilim Kurgu"
+Paris'te Gece Yarısı,"İngilizce, Fransızca","İspanya, ABD","Komedi, Fantastik, Romantik"
+500 Gün Yaz,İngilizce,ABD,"Komedi, Dram, Romantik"
+Hayat Güzeldir (La Vita è Bella),İtalyanca,İtalya,"Komedi, Dram, Savaş"
+Aptal ve Avan (Dumb and Dumber),İngilizce,ABD,Komedi
+Monty Python ve Kutsal Kase (Monty Python and the Holy Grail),İngilizce,Birleşik Krallık,"Komedi, Fantastik"
+Bekarlığa Veda (The Hangover),İngilizce,ABD,Komedi
+Spaceballs,İngilizce,ABD,"Komedi, Bilim Kurgu"
+Şaşkın (Office Space),İngilizce,ABD,Komedi
+Cennet Sineması (Cinema Paradiso),İtalyanca,İtalya,"Komedi, Dram"
+Borat,İngilizce,ABD,Komedi
+Zor Baba (Meet the Parents),İngilizce,ABD,Komedi
+Tucker & Dale vs Evil,İngilizce,Kanada,"Komedi, Korku"
+Kuzuların Sessizliği (The Silence of the Lambs),İngilizce,ABD,"Gizem, Gerilim, Korku"
+Yedi (Se7en),İngilizce,ABD,"Gizem, Gerilim, Suç"
+Akıl Defteri (Memento),İngilizce,ABD,"Gizem, Gerilim, Suç"
+Kayıp Kız (Gone Girl),İngilizce,ABD,"Gizem, Gerilim, Dram"
+Zindan Adası (Shutter Island),İngilizce,ABD,"Gizem, Gerilim, Psikolojik Gerilim"
+Prestij (The Prestige),İngilizce,"ABD, İngiltere","Gizem, Dram, Bilim Kurgu"
+Bıçaklar Çekildi (Knives Out),İngilizce,ABD,"Gizem, Komedi, Suç"
+Cinayet Gecesi (Murder Mystery),İngilizce,ABD,"Gizem, Komedi, Suç"
+Ölüm Korkusu (Vertigo),İngilizce,ABD,"Gizem, Gerilim, Romantik"
+Arka Pencere (Rear Window),İngilizce,ABD,"Gizem, Gerilim"
+Kuzuların Sessizliği,İngilizce,ABD,"Gerilim, Gizem"
+Yedi (Se7en),İngilizce,ABD,"Suç, Gizem, Gerilim"
+Kayıp Kız (Gone Girl),İngilizce,ABD,"Gizem, Gerilim"
+Akıl Oyunları (A Beautiful Mind),İngilizce,ABD,"Biyografi, Dram, Gizem"
+Prestij (The Prestige),İngilizce,"ABD, İngiltere","Dram, Gizem, Bilim Kurgu"
+Zindan Adası (Shutter Island),İngilizce,ABD,"Gizem, Gerilim"
+Olağan Şüpheliler (The Usual Suspects),İngilizce,"ABD, Almanya","Suç, Gizem, Gerilim"
+Cinayet Gecesi (Knives Out),İngilizce,ABD,"Komedi, Suç, Gizem"
+Memento,İngilizce,ABD,"Gizem, Gerilim"
+Vertigo,İngilizce,ABD,"Gizem, Gerilim, Romantik"
+Blade Runner 2049,İngilizce,"ABD, Kanada, İngiltere","Bilim Kurgu, Gerilim"
+Gattaca,İngilizce,ABD,"Bilim Kurgu, Dram"
+Yıldız Savaşları: İmparatorun Dönüşü (Star Wars: Episode V - The Empire Strikes Back),İngilizce,ABD,"Bilim Kurgu, Aksiyon, Macera"
+Varış (Arrival),İngilizce,ABD,"Bilim Kurgu, Dram, Gizem"
+Ay,İngilizce,İngiltere,"Bilim Kurgu, Dram, Gizem"
+District 9,"İngilizce, Afrikaanca, Xhosa","Güney Afrika, ABD, Yeni Zelanda, Kanada","Bilim Kurgu, Aksiyon, Gerilim"
+Dune: Çöl Gezegeni (Dune),İngilizce,"ABD, Kanada","Bilim Kurgu, Macera, Dram"
+Ex Machina,İngilizce,İngiltere,"Bilim Kurgu, Dram, Gerilim"
+Otomatik Portakal (A Clockwork Orange),İngilizce,"İngiltere, ABD","Bilim Kurgu, Dram"
+Sonsuzluk Projesi (Primer),İngilizce,ABD,"Bilim Kurgu, Gerilim, Dram"
+Citizenfour,İngilizce,"ABD, Almanya, İngiltere","Belgesel, Biyografi, Gerilim"
+Icarus,"İngilizce, Rusça, Almanca",ABD,"Belgesel, Spor, Gerilim"
+Amy,İngilizce,İngiltere,"Belgesel, Biyografi, Müzik"
+Free Solo,İngilizce,ABD,"Belgesel, Macera, Spor"
+Man with a Movie Camera,Sessiz,Sovyetler Birliği,"Belgesel, Deneysel"
+Blackfish,İngilizce,ABD,"Belgesel, Drama"
+The Act of Killing,"Endonezce, İngilizce","Danimarka, Norveç, İngiltere","Belgesel, Suç, Tarih"
+Jiro Dreams of Sushi,Japonca,ABD,"Belgesel, Yemek"
+Searching for Sugar Man,İngilizce,"İsveç, İngiltere","Belgesel, Müzik"
+Exit Through the Gift Shop,"İngilizce, Fransızca","İngiltere, ABD","Belgesel, Komedi, Suç"
+Citizenfour,İngilizce,"ABD, Almanya, Birleşik Krallık","Belgesel, Biyografi, Casusluk"
+Man with a Movie Camera,Yok (Sessiz),Sovyetler Birliği,"Belgesel, Deneysel"
+The Act of Killing,"Endonezce, İngilizce","Danimarka, Norveç, Birleşik Krallık","Belgesel, Tarih, Suç"
+Amy,İngilizce,Birleşik Krallık,"Belgesel, Biyografi, Müzik"
+Jiro Dreams of Sushi,Japonca,ABD,"Belgesel, Yemek"
+Free Solo,İngilizce,ABD,"Belgesel, Spor, Macera"
+Icarus,"İngilizce, Rusça",ABD,"Belgesel, Spor, Gerilim"
+Searching for Sugar Man,"İngilizce, Afrikanca","İsveç, Birleşik Krallık","Belgesel, Müzik"
+Blackfish,İngilizce,ABD,"Belgesel, Çevre"
+Earthlings,İngilizce,ABD,"Belgesel, Hayvan Hakları"
+Mad Max: Fury Road,İngilizce,"Avustralya, ABD","Aksiyon, Macera, Bilim Kurgu"
+John Wick,İngilizce,ABD,"Aksiyon, Gerilim"
+The Raid: Redemption,Endonezce,Endonezya,"Aksiyon, Suç, Gerilim"
+Kill Bill: Vol. 1,"İngilizce, Japonca",ABD,"Aksiyon, Suç, Gerilim"
+Mission: Impossible - Fallout,İngilizce,ABD,"Aksiyon, Macera, Gerilim"
+Terminator 2: Judgment Day,İngilizce,ABD,"Aksiyon, Bilim Kurgu"
+Die Hard,İngilizce,ABD,"Aksiyon, Gerilim"
+"Crouching Tiger, Hidden Dragon",Mandarin,"Çin, Hong Kong, Tayvan, ABD","Aksiyon, Macera, Fantastik"
+Edge of Tomorrow,İngilizce,"ABD, Avustralya","Aksiyon, Bilim Kurgu"
+Gladiator,İngilizce,"ABD, İngiltere","Aksiyon, Macera, Dram"
